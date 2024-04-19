@@ -41,7 +41,7 @@ def get_datasafety(app_id):
 
 def get_reviews(app_id, next_pagination_token=None):
     url = f"{GPLAY_BASE_URL}/api/apps/{app_id}/reviews"
-    params = {"nextPaginationToken": next_pagination_token, "num": REVIEWS_PER_FETCH} if next_pagination_token else {}
+    params = {"nextPaginationToken": next_pagination_token, "num": REVIEWS_PER_FETCH, "sort" : "helpful"} if next_pagination_token else {}
     response = requests.get(url, params=params)
     return response.json() if response.status_code == 200 else None
 
@@ -80,6 +80,8 @@ def extract_all_reviews(app_id, upto_date=None):
             "scoreText": review["scoreText"],
             "title": review["title"],
             "text": review["text"],
+            "thumbsUp": review['thumbsUp'],
+            "version": review['version'],
             **flatten_criterias(review),
         }
         flattened_reviews.append(flattened_review)
@@ -110,8 +112,8 @@ def save_app_reviews(app_id: str) -> None:
     logging.debug('Count of all reviews', len(reviews))
     all_reviews = remove_duplicates(existing_reviews + reviews)
     all_reviews = sorted(all_reviews, key=lambda x: (datetime.strptime(x["date"], "%Y-%m-%d"), x["id"]), reverse=True)
-    with open(review_filename, 'w') as file:
-        json.dump(all_reviews, file, indent=4)
+    with open(review_filename, 'w', encoding='utf-8') as file:
+        json.dump(all_reviews, file, ensure_ascii=False, indent=4)
 
 def remove_duplicates(reviews: List[Dict[str, str]]) -> List[Dict[str, str]]:
     """
@@ -289,21 +291,14 @@ def generate_data_safety_comparison_table(folder_path):
 
 
 
-if __name__ == "__main__":
-
-    save_dev_info(dev_id=DEVELOPER_NAME)
-
-    app_ids = get_applist_by_developer(DEVELOPER_NAME)
-
-    # app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner",
-    #             "net.openkochi.yatri", "net.openkochi.yatripartner",
-    #             "in.juspay.jatrisaathi", "in.juspay.jatrisaathidriver",
-    #             "com.yaary.consumer.android", "com.yaary.partner",
-    #             "in.mobility.manayatripartner", "in.mobility.manayatri"]
-    
+if __name__ == "__main__":    
     logging.basicConfig(filename='ExtractReviews' + time.strftime("%Y%m%d-%H%M%S") + '.log', 
                         format='%(asctime)s %(message)s', level=logging.INFO)
     
+    save_dev_info(dev_id=DEVELOPER_NAME)
+    app_ids = get_applist_by_developer(DEVELOPER_NAME)
+
+
     for app_id in app_ids:
         save_app_datasafety(app_id=app_id)
         save_app_info(app_id=app_id)
