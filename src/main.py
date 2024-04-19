@@ -41,7 +41,7 @@ def get_datasafety(app_id):
 
 def get_reviews(app_id, next_pagination_token=None):
     url = f"{GPLAY_BASE_URL}/api/apps/{app_id}/reviews"
-    params = {"nextPaginationToken": next_pagination_token, "num": REVIEWS_PER_FETCH, "sort" : "helpful"} if next_pagination_token else {}
+    params = {"nextPaginationToken": next_pagination_token, "num": REVIEWS_PER_FETCH} if next_pagination_token else {}
     response = requests.get(url, params=params)
     return response.json() if response.status_code == 200 else None
 
@@ -159,7 +159,7 @@ def save_app_review_criterias(app_id: str) -> None:
 
 def generate_markdown_table_with_max_installs(app_package_names):
     # Markdown table header
-    markdown_table = "# " + DEVELOPER_NAME + " Mobility Tracker\n\n"
+    markdown_table = "# " + DEVELOPER_NAME + " Android Apps Tracker\n\n"
     markdown_table += "| S.No | App Name | Version | maxInstalls | Score | Ratings | 1 Star | 5 Star | Google Play Info |\n"
     markdown_table += "|------|----------|---------|-------------|-------|---------|--------|--------|------------------|\n"
 
