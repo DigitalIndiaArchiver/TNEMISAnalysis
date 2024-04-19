@@ -6,11 +6,16 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-GPLAY_BASE_URL = "https://gplayapidev.fly.dev"
 PLAYDATA_PATH = '../data/'
-REPO_NAME = 'https://flatgithub.com/DigitalIndiaArchiver/TNEMISANALYSIS'
-REVIEWS_PER_FETCH = 2000
-DEVELOPER_NAME = 'TN-EMIS-CELL'
+
+with open("config.json") as f:
+    config = json.load(f)
+
+GPLAY_BASE_URL = config["GPLAY_BASE_URL"]
+REPO_NAME = config["REPO_NAME"]
+REVIEWS_PER_FETCH = config["REVIEWS_PER_FETCH"]
+DEVELOPER_NAME = config["DEVELOPER_NAME"]
+
 
 def get_appinfo(app_id):
     url = f"{GPLAY_BASE_URL}/api/apps/{app_id}"
@@ -180,8 +185,8 @@ def generate_markdown_table_with_max_installs(app_package_names):
 
             # Generate Google Play and reviews links
             google_play_link = f"[{app_name}](https://play.google.com/store/apps/details?id={app_id})"
-            play_info = f"[Reviews ({review_count})]({REPO_NAME}?filename=raw-data%2Freviews%2FReviews_{app_id}.json)"
-            play_info += f" - [Permissions ({permission_count})]({REPO_NAME}?filename=raw-data%2Freviews%2FPermissions_{app_id}.json)"
+            play_info = f"[Reviews ({review_count})]({REPO_NAME}?filename=data%2FReviews_{app_id}.json)"
+            play_info += f" - [Permissions ({permission_count})]({REPO_NAME}?filename=data%2FPermissions_{app_id}.json)"
 
             # Add row to Markdown table
             markdown_table += f"| {i} | {google_play_link} | {version} | {max_installs} | {score} | {ratings} | {one_star} | {five_star} | {play_info} |\n"
