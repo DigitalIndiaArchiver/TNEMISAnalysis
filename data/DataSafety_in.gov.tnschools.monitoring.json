@@ -9,12 +9,6 @@
                 "type": "Files and docs"
             },
             {
-                "data": "Precise location",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Location"
-            },
-            {
                 "data": "Photos",
                 "optional": true,
                 "purpose": "App functionality",
@@ -25,6 +19,12 @@
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Photos and videos"
+            },
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Location"
             }
         ],
         "securityPractices": [
@@ -37,6 +37,6 @@
                 "description": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
             }
         ],
-        "privacyPolicyUrl": "https://privacypolicy.tnschools.gov.in/monitoring-privacy.html"
+        "privacyPolicyUrl": "https://privacypolicy.tnschools.gov.in/school_privacy.html"
     }
 }
