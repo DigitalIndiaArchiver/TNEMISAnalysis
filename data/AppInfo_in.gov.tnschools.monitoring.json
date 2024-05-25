@@ -5,17 +5,17 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 160123,
-    "score": 3.7920792,
+    "maxInstalls": 160239,
+    "score": 3.77,
     "scoreText": "3.8",
-    "ratings": 386,
+    "ratings": 387,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
-        "1": 75,
-        "2": 21,
-        "3": 25,
-        "4": 37,
-        "5": 221
+        "1": 77,
+        "2": 23,
+        "3": 27,
+        "4": 42,
+        "5": 216
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Nov 20, 2021",
-    "updated": 1715606501000,
-    "version": "0.1.6",
-    "recentChanges": "BaLA Painting Inspection Module Added",
+    "updated": 1716576154000,
+    "version": "0.1.7",
+    "recentChanges": "Puthiya Bharatha Ezhutharivu Thittam Module Added",
     "comments": [
         null
     ],
