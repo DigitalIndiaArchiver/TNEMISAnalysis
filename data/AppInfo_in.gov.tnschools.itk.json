@@ -5,17 +5,17 @@
     "summary": "ILLAM THEDI KALVI Mobile App is designed for all the selected volunteers.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 733287,
-    "score": 4.2477064,
+    "maxInstalls": 734338,
+    "score": 4.25,
     "scoreText": "4.2",
-    "ratings": 11333,
+    "ratings": 11345,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
     "histogram": {
-        "1": 850,
-        "2": 500,
-        "3": 1000,
-        "4": 1616,
-        "5": 7362
+        "1": 841,
+        "2": 495,
+        "3": 1010,
+        "4": 1628,
+        "5": 7366
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Oct 22, 2021",
-    "updated": 1716397883000,
-    "version": "0.0.76",
-    "recentChanges": "\u0bae\u0bc8\u0baf \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 Module Added",
+    "updated": 1716642242000,
+    "version": "0.0.77",
+    "recentChanges": "\u0bae\u0bc8\u0baf \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 Module Changes.<br>Bug Fixes and Performance Improvement.",
     "comments": [
         null
     ],
