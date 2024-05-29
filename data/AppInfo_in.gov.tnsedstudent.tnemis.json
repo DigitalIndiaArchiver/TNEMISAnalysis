@@ -5,7 +5,7 @@
     "summary": "The self-learning assessment &amp; content application for Students &amp; Teachers.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 197995,
+    "maxInstalls": 198106,
     "score": 4.223301,
     "scoreText": "4.2",
     "ratings": 534,
@@ -49,9 +49,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Sep 20, 2022",
-    "updated": 1712319392000,
-    "version": "0.0.27",
-    "recentChanges": "Higher Education NEET Videos Uploaded",
+    "updated": 1716881566000,
+    "version": "0.0.29",
+    "recentChanges": "Question Bank Update. Bug Fixes &amp; Performance Improvements.",
     "comments": [
         null
     ],
