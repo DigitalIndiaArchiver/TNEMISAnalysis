@@ -5,7 +5,7 @@
     "summary": "The self-learning assessment &amp; content application for Students &amp; Teachers.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 199551,
+    "maxInstalls": 199675,
     "score": 4.267327,
     "scoreText": "4.3",
     "ratings": 539,
@@ -13,9 +13,9 @@
     "histogram": {
         "1": 26,
         "2": 36,
-        "3": 57,
-        "4": 57,
-        "5": 357
+        "3": 58,
+        "4": 58,
+        "5": 356
     },
     "price": 0,
     "free": true,
