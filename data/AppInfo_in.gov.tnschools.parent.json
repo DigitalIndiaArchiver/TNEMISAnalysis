@@ -11,10 +11,10 @@
     "ratings": 356,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/reviews",
     "histogram": {
-        "1": 24,
-        "2": 3,
-        "3": 35,
-        "4": 64,
+        "1": 23,
+        "2": 2,
+        "3": 34,
+        "4": 63,
         "5": 227
     },
     "price": 0,
