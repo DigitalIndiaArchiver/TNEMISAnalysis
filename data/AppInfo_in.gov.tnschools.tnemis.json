@@ -5,17 +5,17 @@
     "summary": "Official app for the teachers by State School Education Department, Tamil Nadu",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 693740,
-    "score": 3.889299,
+    "maxInstalls": 694089,
+    "score": 3.8875575,
     "scoreText": "3.9",
-    "ratings": 10854,
+    "ratings": 10857,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
     "histogram": {
-        "1": 1721,
-        "2": 490,
+        "1": 1720,
+        "2": 500,
         "3": 1000,
-        "4": 1691,
-        "5": 5947
+        "4": 1690,
+        "5": 5943
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Oct 31, 2021",
-    "updated": 1717431698000,
-    "version": "0.1.2",
-    "recentChanges": "ITK Module Changes. Bug Fixes and Performance Improvement.",
+    "updated": 1718903526000,
+    "version": "0.1.3",
+    "recentChanges": " ITK Lead Volunteer Selection Module Added",
     "comments": [
         null
     ],

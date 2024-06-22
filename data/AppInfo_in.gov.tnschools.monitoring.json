@@ -5,17 +5,17 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 162059,
-    "score": 3.735294,
+    "maxInstalls": 162496,
+    "score": 3.737864,
     "scoreText": "3.7",
-    "ratings": 391,
+    "ratings": 392,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
         "1": 79,
         "2": 22,
-        "3": 29,
-        "4": 41,
-        "5": 214
+        "3": 30,
+        "4": 45,
+        "5": 213
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Nov 20, 2021",
-    "updated": 1716576154000,
-    "version": "0.1.7",
-    "recentChanges": "Puthiya Bharatha Ezhutharivu Thittam Module Added",
+    "updated": 1718989907000,
+    "version": "0.1.8",
+    "recentChanges": "AWC Screening Module Added",
     "comments": [
         null
     ],

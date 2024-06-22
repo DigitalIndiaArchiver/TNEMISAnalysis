@@ -1,5 +1,25 @@
 [
     {
+        "id": "98fa0fb9-b23c-4966-9ada-6d6ca2120d13",
+        "date": "2024-06-20",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not working properly",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "291ed670-6622-45c3-82d1-2ed3b0b44195",
+        "date": "2024-06-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.1.2"
+    },
+    {
         "id": "8f07b52b-e615-4baa-b6cb-bc618b746840",
         "date": "2024-06-18",
         "score": 3,
@@ -136,7 +156,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.1.1"
     },
     {
@@ -146,7 +166,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.1.1"
     },
     {
