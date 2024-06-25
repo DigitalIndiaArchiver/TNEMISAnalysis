@@ -1,5 +1,28 @@
 [
     {
+        "id": "41f6db2d-e2e3-485a-96ea-490a6c4428b7",
+        "date": "2024-06-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
+        "thumbsUp": 0,
+        "version": "0.1.3"
+    },
+    {
+        "id": "6860ffaf-8508-4b19-976e-2b7387342c2e",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good",
+        "thumbsUp": 0,
+        "version": "0.1.3",
+        "vaf_never_display_visually_good": 1,
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_useful_notifications": 1
+    },
+    {
         "id": "98fa0fb9-b23c-4966-9ada-6d6ca2120d13",
         "date": "2024-06-20",
         "score": 2,

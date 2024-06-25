@@ -5,17 +5,17 @@
     "summary": "The self-learning assessment &amp; content application for Students &amp; Teachers.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 202828,
+    "maxInstalls": 204312,
     "score": 4.32,
     "scoreText": "4.3",
-    "ratings": 553,
+    "ratings": 554,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/reviews",
     "histogram": {
         "1": 27,
         "2": 32,
         "3": 54,
         "4": 54,
-        "5": 381
+        "5": 382
     },
     "price": 0,
     "free": true,
