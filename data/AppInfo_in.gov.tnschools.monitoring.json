@@ -5,7 +5,7 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 162945,
+    "maxInstalls": 163166,
     "score": 3.81,
     "scoreText": "3.8",
     "ratings": 393,
@@ -47,8 +47,8 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Nov 20, 2021",
-    "updated": 1718989907000,
-    "version": "0.1.8",
+    "updated": 1719403130000,
+    "version": "0.2.0",
     "recentChanges": "AWC Screening Module Added",
     "comments": [
         null
