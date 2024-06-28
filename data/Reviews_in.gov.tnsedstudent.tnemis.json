@@ -1,5 +1,55 @@
 [
     {
+        "id": "db7b6a87-5fed-43d6-97c4-112d5b49be83",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This app is very usefull...user friendly...It is very for NEET and JEE preparation... Subject contents clarified deeply...",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
+        "id": "b50e502c-951b-4bb4-9e5b-93089ea2cfa1",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Tamil medium notes not available",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
+        "id": "a659eb92-3d86-4991-8f21-1e44a3ea79b0",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "மாணவர்கள் சுயமாக கற்று மேன்மை அடைய இந்த செயலி மிகவும் உதவியாக இருக்கிறது",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "30008668-afab-4075-8217-80b6fd1373da",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "இச்செயலி மாணவர்களுக்கும், ஆசிரியர்களுக்கும் மிகவும் பயனுள்ள வகையில் இருக்கும். இதில் தாவரவியல் விலங்கியல் இயற்பியல் வேதியியல் மற்றும் கணித பாடங்களுக்கான காணொளிகள் உள்ளன. இச்செயலியில் பாடக் கருத்துக்கள் மாணவர்களுக்கு எளிமையாகப் புரியும் வண்ணம் பட விளக்கத்தோடு காணொளிகள் உள்ளன. இது மாணவர்கள் போட்டித் தேர்வுக்கு தயாராக பயனுள்ள வகையில் இருக்கும்.",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
+        "id": "1a4516d9-447b-4029-b8f5-26dc0906b25d",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent app for learning. Maths , Physics, Chemistry, Botany and Zoology subject topics explained very well . Useful app for teachers , students and the students preparing for competitive exams . Thanks a lot to education department and Government of Tamil Nadu .",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
         "id": "c3ea873c-9127-4ccd-a132-aecc745c39dd",
         "date": "2024-06-24",
         "score": 5,
@@ -30,13 +80,13 @@
         "version": "0.0.31"
     },
     {
-        "id": "800ad530-9163-4ad2-a47d-e5bf726ccca0",
-        "date": "2024-06-22",
+        "id": "10700357-10bb-48f6-b738-474048f06249",
+        "date": "2024-06-24",
         "score": 5,
         "scoreText": "5",
         "title": null,
-        "text": "Basic concept explanation is nice . Students might feel it easy to understand and go to next level. Slow learners also will be able to grasp the mathematical concepts and feel motivated to attempt the competitive exams .",
-        "thumbsUp": 1,
+        "text": "I am ADHIKESAVAN from GHSS, Karuveppilankurichi, Cuddalore District. Excellent App to our Govt School Students to learn their subjects Concept more and very useful to NEET, JEE Entrance Exam",
+        "thumbsUp": 2,
         "version": "0.0.31"
     },
     {
@@ -47,6 +97,26 @@
         "title": null,
         "text": "Basic concept explanation is nice . Students might feel it easy to understand and go to next level. Slow learners also will be able to grasp the mathematical concepts and feel motivated to attempt the competitive exams .",
         "thumbsUp": 4,
+        "version": "0.0.31"
+    },
+    {
+        "id": "800ad530-9163-4ad2-a47d-e5bf726ccca0",
+        "date": "2024-06-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Basic concept explanation is nice . Students might feel it easy to understand and go to next level. Slow learners also will be able to grasp the mathematical concepts and feel motivated to attempt the competitive exams .",
+        "thumbsUp": 6,
+        "version": "0.0.31"
+    },
+    {
+        "id": "800ad530-9163-4ad2-a47d-e5bf726ccca0",
+        "date": "2024-06-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Basic concept explanation is nice . Students might feel it easy to understand and go to next level. Slow learners also will be able to grasp the mathematical concepts and feel motivated to attempt the competitive exams .",
+        "thumbsUp": 1,
         "version": "0.0.31"
     },
     {
@@ -66,7 +136,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Manarkeni app will be definitely an useful tool for the government students and students in general. Also a great source for teachers. If done for languages also, It will be appreciated.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -76,7 +146,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Manarkeni app will be definitely an useful tool for the government students and students in general. Also a great source for teachers. If done for languages also, It will be appreciated.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": null
     },
     {
@@ -146,7 +216,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It is wonderful app for TN students. But pls updte all your videos",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
@@ -156,7 +226,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It is wonderful app for TN students. But pls updte all your videos",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
