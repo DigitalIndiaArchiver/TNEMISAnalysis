@@ -5,7 +5,7 @@
     "summary": "The self-learning assessment &amp; content application for Students &amp; Teachers.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 230943,
+    "maxInstalls": 233757,
     "score": 4.54,
     "scoreText": "4.5",
     "ratings": 610,
@@ -49,8 +49,8 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Sep 20, 2022",
-    "updated": 1719998677000,
-    "version": "0.0.32",
+    "updated": 1721637794000,
+    "version": "0.0.33",
     "recentChanges": "Subjects Content and Questions Update. Bug Fixes &amp; Performance Improvements.",
     "comments": [
         null

@@ -5,10 +5,10 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 167736,
+    "maxInstalls": 167926,
     "score": 3.82,
     "scoreText": "3.8",
-    "ratings": 397,
+    "ratings": 398,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
         "1": 75,
