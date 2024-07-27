@@ -1,5 +1,25 @@
 [
     {
+        "id": "46ec4a85-3772-456c-ae03-6f83a3cd0feb",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Does not open library icon how to solve this problem",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "3edeb180-de65-448c-bad0-39185086941f",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
         "id": "f6ca7efa-75a5-4a3f-acea-5091b75a2f9f",
         "date": "2024-07-23",
         "score": 5,
@@ -248,6 +268,26 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 21,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 11,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 23,
         "version": "0.1.5"
     },
@@ -269,26 +309,6 @@
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 15,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 11,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 21,
         "version": "0.1.5"
     },
     {
@@ -419,33 +439,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 0,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 12,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 18,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -471,7 +465,33 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 18,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 16,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 0,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -554,26 +574,6 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 18,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 25,
         "version": "0.1.3"
     },
@@ -584,7 +584,27 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 18,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 7,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {
@@ -827,7 +847,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.1.1"
     },
     {
@@ -837,7 +857,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.1.1"
     },
     {
