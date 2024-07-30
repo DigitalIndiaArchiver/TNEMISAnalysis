@@ -5,7 +5,7 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 168754,
+    "maxInstalls": 170034,
     "score": 3.8349514,
     "scoreText": "3.8",
     "ratings": 402,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Nov 20, 2021",
-    "updated": 1721483802000,
-    "version": "0.2.2",
-    "recentChanges": "CFSIDS - Engineer School Visit Module Added",
+    "updated": 1722271296000,
+    "version": "0.2.3",
+    "recentChanges": "Palli Paarvai Module Changes",
     "comments": [
         null
     ],
