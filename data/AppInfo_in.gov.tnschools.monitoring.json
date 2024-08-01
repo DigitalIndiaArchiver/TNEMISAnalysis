@@ -5,17 +5,17 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 170034,
-    "score": 3.8349514,
+    "maxInstalls": 170686,
+    "score": 3.77,
     "scoreText": "3.8",
-    "ratings": 402,
+    "ratings": 405,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
-        "1": 74,
-        "2": 15,
-        "3": 35,
-        "4": 54,
-        "5": 222
+        "1": 81,
+        "2": 16,
+        "3": 36,
+        "4": 52,
+        "5": 218
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Nov 20, 2021",
-    "updated": 1722271296000,
-    "version": "0.2.3",
-    "recentChanges": "Palli Paarvai Module Changes",
+    "updated": 1722438581000,
+    "version": "0.2.4",
+    "recentChanges": "OOSC Module Changes",
     "comments": [
         null
     ],
