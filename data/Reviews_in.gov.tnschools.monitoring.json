@@ -1,5 +1,15 @@
 [
     {
+        "id": "5c404ec7-8c80-4df1-b11b-9b29f629b17f",
+        "date": "2024-08-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I am using Moto G40 model mobile. I have given all permissions like camera, GPS camera, Location, Files and media. After selecting school and click start, it shows take photo but not able to take photo and not showing camera options. I have verified all settings in my mobile related to the app and also I have not denied any permissions. Due to this I am not able to register my school observations",
+        "thumbsUp": 0,
+        "version": "0.2.4"
+    },
+    {
         "id": "a13d7d5b-9445-4ae9-aa98-cfbe0ef63fbd",
         "date": "2024-08-01",
         "score": 1,
