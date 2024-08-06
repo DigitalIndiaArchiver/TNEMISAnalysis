@@ -26,6 +26,16 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
+        "thumbsUp": 1,
+        "version": "0.0.30"
+    },
+    {
+        "id": "123a60ff-b374-415d-9c3f-aec283be0c87",
+        "date": "2024-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
         "thumbsUp": 0,
         "version": "0.0.30"
     },
