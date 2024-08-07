@@ -5,17 +5,17 @@
     "summary": "For parents of students from Tamil Nadu for information and school management",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 212432,
-    "score": 4.133333,
-    "scoreText": "4.1",
-    "ratings": 382,
+    "maxInstalls": 214490,
+    "score": 4.1862745,
+    "scoreText": "4.2",
+    "ratings": 393,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/reviews",
     "histogram": {
-        "1": 40,
+        "1": 42,
         "2": 3,
-        "3": 43,
-        "4": 72,
-        "5": 221
+        "3": 30,
+        "4": 77,
+        "5": 238
     },
     "price": 0,
     "free": true,
@@ -47,9 +47,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Mar 1, 2022",
-    "updated": 1722588423000,
-    "version": "0.0.32",
-    "recentChanges": "Parents Meeting Module Added",
+    "updated": 1722953473000,
+    "version": "0.0.33",
+    "recentChanges": "Recon Meeting Attendance Module Added",
     "comments": [
         null
     ],
