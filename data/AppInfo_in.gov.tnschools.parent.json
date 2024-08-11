@@ -5,7 +5,7 @@
     "summary": "For parents of students from Tamil Nadu for information and school management",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 217123,
+    "maxInstalls": 217520,
     "score": 4.03,
     "scoreText": "4.0",
     "ratings": 404,
@@ -50,9 +50,7 @@
     "updated": 1722953473000,
     "version": "0.0.33",
     "recentChanges": "Recon Meeting Attendance Module Added",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,

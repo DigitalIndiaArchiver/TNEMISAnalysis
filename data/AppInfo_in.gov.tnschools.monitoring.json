@@ -5,14 +5,14 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 172703,
-    "score": 3.7,
+    "maxInstalls": 172930,
+    "score": 3.71,
     "scoreText": "3.7",
-    "ratings": 410,
+    "ratings": 411,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
-        "1": 90,
-        "2": 20,
+        "1": 86,
+        "2": 24,
         "3": 32,
         "4": 45,
         "5": 221
@@ -50,9 +50,7 @@
     "updated": 1722438581000,
     "version": "0.2.4",
     "recentChanges": "OOSC Module Changes",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
