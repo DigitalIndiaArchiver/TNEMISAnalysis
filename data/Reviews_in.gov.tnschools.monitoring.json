@@ -1,5 +1,15 @@
 [
     {
+        "id": "29356467-cca8-4e89-9cbe-cf30d6e520e2",
+        "date": "2024-08-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I can't take selfie what to do",
+        "thumbsUp": 0,
+        "version": "0.2.4"
+    },
+    {
         "id": "b5f22e3f-854f-4cde-84cc-a11c6a7bf017",
         "date": "2024-08-09",
         "score": 2,
@@ -66,7 +76,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
@@ -76,7 +86,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
