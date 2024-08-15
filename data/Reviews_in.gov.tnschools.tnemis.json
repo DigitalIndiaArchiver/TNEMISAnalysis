@@ -1,5 +1,25 @@
 [
     {
+        "id": "f0d7c9e6-5fd7-4d33-ba7a-afd9c3f72f73",
+        "date": "2024-08-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Kindly enable learners delete option",
+        "thumbsUp": 0,
+        "version": "0.1.8"
+    },
+    {
+        "id": "8811fb46-ac96-4952-86d9-22b4714c8169",
+        "date": "2024-08-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Why this app not available in Apple app store? TN EMIS admin provide TNSED SCHOOLS and TNSED ATTENDANCE app in Apple app store.",
+        "thumbsUp": 0,
+        "version": "0.1.8"
+    },
+    {
         "id": "0b6103fc-859e-484b-9400-372b2a539911",
         "date": "2024-08-12",
         "score": 5,
@@ -318,7 +338,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 4,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -328,7 +348,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 1,
+        "thumbsUp": 4,
         "version": "0.1.3"
     },
     {
@@ -358,7 +378,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.6"
     },
     {
@@ -368,7 +388,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.6"
     },
     {
@@ -418,6 +438,26 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 23,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 0,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 15,
         "version": "0.1.5"
     },
@@ -439,26 +479,6 @@
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 11,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 23,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 0,
         "version": "0.1.5"
     },
     {
@@ -589,20 +609,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 12,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 5,
+        "thumbsUp": 0,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -641,7 +648,20 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 0,
+        "thumbsUp": 12,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 5,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -764,7 +784,7 @@
         "scoreText": "1",
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -774,7 +794,7 @@
         "scoreText": "1",
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -814,7 +834,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -824,7 +844,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -997,7 +1017,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.1.1"
     },
     {
@@ -1007,7 +1027,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.1.1"
     },
     {
