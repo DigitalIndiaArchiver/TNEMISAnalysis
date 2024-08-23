@@ -5,17 +5,17 @@
     "summary": "ILLAM THEDI KALVI Mobile App is designed for all the selected volunteers.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 760457,
-    "score": 4.2432666,
+    "maxInstalls": 760659,
+    "score": 4.2439237,
     "scoreText": "4.2",
-    "ratings": 11525,
+    "ratings": 11526,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
     "histogram": {
         "1": 890,
         "2": 500,
         "3": 1000,
-        "4": 1651,
-        "5": 7478
+        "4": 1650,
+        "5": 7483
     },
     "price": 0,
     "free": true,
@@ -50,9 +50,7 @@
     "updated": 1722784770000,
     "version": "0.0.80",
     "recentChanges": "ITK Lead Volunteer Module Added",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,

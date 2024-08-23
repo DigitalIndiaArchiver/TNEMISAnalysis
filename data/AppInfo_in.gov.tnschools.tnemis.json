@@ -5,17 +5,17 @@
     "summary": "Official app for the teachers by State School Education Department, Tamil Nadu",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 764612,
-    "score": 3.9927993,
+    "maxInstalls": 765380,
+    "score": 3.9928057,
     "scoreText": "4.0",
     "ratings": 11075,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
     "histogram": {
-        "1": 1534,
-        "2": 488,
-        "3": 976,
-        "4": 1594,
-        "5": 6479
+        "1": 1533,
+        "2": 487,
+        "3": 975,
+        "4": 1603,
+        "5": 6473
     },
     "price": 0,
     "free": true,
@@ -50,9 +50,7 @@
     "updated": 1722867520000,
     "version": "0.1.8",
     "recentChanges": "NILP Volunteers &amp; Learners Attendance Module Added",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,

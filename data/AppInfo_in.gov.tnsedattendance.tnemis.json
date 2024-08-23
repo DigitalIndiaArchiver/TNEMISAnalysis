@@ -5,7 +5,7 @@
     "summary": "The attendance of students, teachers &amp; all staff of School Education Department.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 444132,
+    "maxInstalls": 444615,
     "score": 4.0149255,
     "scoreText": "4.0",
     "ratings": 2019,
@@ -49,9 +49,7 @@
     "updated": 1676828286000,
     "version": "7.0",
     "recentChanges": "Magazine Module Added. Bug Fixes &amp; Performance Improvements.",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
