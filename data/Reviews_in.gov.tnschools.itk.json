@@ -1,5 +1,28 @@
 [
     {
+        "id": "7feecb11-15f7-4fba-a992-238a9fbd7e79",
+        "date": "2024-08-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I am facing some problem,every time I login they show \"unable to connect the service \" please fix the problem , I am facing this problem more than 2 months",
+        "thumbsUp": 0,
+        "version": "0.0.80"
+    },
+    {
+        "id": "12784e5c-c958-46db-ad31-b3c5338cee6a",
+        "date": "2024-08-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Photo not accepted",
+        "thumbsUp": 0,
+        "version": "0.0.80",
+        "vaf_never_display_considerate_of_time": 2,
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_inappropriate_ads": 2
+    },
+    {
         "id": "849961fa-efca-4849-ae09-2825c0dd6e2e",
         "date": "2024-08-18",
         "score": 3,
@@ -468,7 +491,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Some times we open this app it says serve issue but not open sir. Plese correct this",
-        "thumbsUp": 2,
+        "thumbsUp": 5,
         "version": "0.0.77"
     },
     {
@@ -478,7 +501,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Some times we open this app it says serve issue but not open sir. Plese correct this",
-        "thumbsUp": 5,
+        "thumbsUp": 2,
         "version": "0.0.77"
     },
     {
