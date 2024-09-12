@@ -5,8 +5,8 @@
     "summary": "The attendance of students, teachers &amp; all staff of School Education Department.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 449831,
-    "score": 4.0346537,
+    "maxInstalls": 450324,
+    "score": 4.039604,
     "scoreText": "4.0",
     "ratings": 2030,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/reviews",
@@ -14,8 +14,8 @@
         "1": 291,
         "2": 80,
         "3": 100,
-        "4": 351,
-        "5": 1205
+        "4": 341,
+        "5": 1215
     },
     "price": 0,
     "free": true,
