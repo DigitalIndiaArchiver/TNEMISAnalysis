@@ -1,5 +1,15 @@
 [
     {
+        "id": "4d0bb8f9-d554-473c-a3c2-788768a8c6c5",
+        "date": "2024-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "இது வேறு ஒரு பள்ளி கூடுதலாக வேறு ஒரு பிரச்சினை பள்ளி அருகிலேயே இருந்தும் ஒரு முறைக்கு பல முறை புகைப்படம் எடுத்தும் TNSED Administrator's App இந்த இடத்தை விட்டு நகர மறுக்கிறது ஏதாவது Update செய்தால் நன்கு பரிசோதித்து விட்டு பின்னர் கள அலுவலர்களுக்கு பயன்படுத்துமாறு அறிவுறுத்துவது நல்லது...",
+        "thumbsUp": 0,
+        "version": "0.2.7"
+    },
+    {
         "id": "4304786b-b308-4bf1-b7be-f372200ae7eb",
         "date": "2024-09-14",
         "score": 5,
@@ -158,7 +168,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
@@ -168,7 +178,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
