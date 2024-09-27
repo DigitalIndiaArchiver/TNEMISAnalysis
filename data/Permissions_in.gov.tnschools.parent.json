@@ -25,7 +25,15 @@
             "type": "Storage"
         },
         {
+            "permission": "record audio",
+            "type": "Microphone"
+        },
+        {
             "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "change your audio settings",
             "type": "Other"
         }
     ]
