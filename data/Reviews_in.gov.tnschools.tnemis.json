@@ -116,7 +116,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "0.2.0"
     },
     {
@@ -126,7 +126,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "0.2.0"
     },
     {
@@ -648,6 +648,16 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
+        "thumbsUp": 1,
+        "version": "0.1.3"
+    },
+    {
+        "id": "6e2d0f99-eb26-4971-9013-b64e2a8c711e",
+        "date": "2024-07-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
         "thumbsUp": 4,
         "version": "0.1.3"
     },
@@ -659,16 +669,6 @@
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
         "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "6e2d0f99-eb26-4971-9013-b64e2a8c711e",
-        "date": "2024-07-04",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -778,16 +778,6 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 11,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 21,
         "version": "0.1.5"
     },
@@ -799,6 +789,16 @@
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 23,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 11,
         "version": "0.1.5"
     },
     {
@@ -929,20 +929,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 16,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 0,
+        "thumbsUp": 5,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -968,6 +955,19 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 0,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 12,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
@@ -981,7 +981,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 5,
+        "thumbsUp": 16,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -1054,17 +1054,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
+        "thumbsUp": 7,
         "version": "0.1.3"
     },
     {
@@ -1084,7 +1074,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 7,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -1095,6 +1085,16 @@
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 18,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {
