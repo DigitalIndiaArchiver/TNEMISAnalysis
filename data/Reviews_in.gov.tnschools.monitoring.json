@@ -1,5 +1,15 @@
 [
     {
+        "id": "c8a0a67c-a2ed-4b67-abe5-69a409c8d2ca",
+        "date": "2024-10-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Camera selfie not work",
+        "thumbsUp": 0,
+        "version": "0.3.1"
+    },
+    {
         "id": "6c13b517-2fed-45fb-a2bd-ebf2abae4c8f",
         "date": "2024-10-04",
         "score": 1,
@@ -228,7 +238,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
@@ -238,7 +248,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
