@@ -5,17 +5,17 @@
     "summary": "ILLAM THEDI KALVI Mobile App is designed for all the selected volunteers.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 769573,
-    "score": 4.25208,
+    "maxInstalls": 769921,
+    "score": 4.253955,
     "scoreText": "4.3",
-    "ratings": 11591,
+    "ratings": 11589,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
     "histogram": {
         "1": 906,
-        "2": 491,
+        "2": 482,
         "3": 954,
-        "4": 1657,
-        "5": 7579
+        "4": 1658,
+        "5": 7584
     },
     "price": 0,
     "free": true,
