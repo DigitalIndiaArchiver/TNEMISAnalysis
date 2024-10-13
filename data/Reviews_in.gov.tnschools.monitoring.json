@@ -1,5 +1,25 @@
 [
     {
+        "id": "b107fee0-3591-4efb-8a3d-af111f5bbf97",
+        "date": "2024-10-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "In my id itk icon is not coming in this app. Others are getting itk icon in id. Please tell me how to fix it.",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "480f16a5-dded-47ec-869b-0231a81e72d0",
+        "date": "2024-10-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Update 0.3.2",
+        "thumbsUp": 0,
+        "version": "0.3.2"
+    },
+    {
         "id": "c8a0a67c-a2ed-4b67-abe5-69a409c8d2ca",
         "date": "2024-10-06",
         "score": 1,
@@ -16,7 +36,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -26,7 +46,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
