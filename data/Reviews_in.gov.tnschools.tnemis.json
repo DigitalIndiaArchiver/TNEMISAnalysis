@@ -1,5 +1,35 @@
 [
     {
+        "id": "ff747fdd-8a13-46ae-bda0-e1c88d50660d",
+        "date": "2024-11-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's not compatible with our school smart board",
+        "thumbsUp": 0,
+        "version": "0.2.5"
+    },
+    {
+        "id": "b14b9091-4dc8-4445-85e4-748468929263",
+        "date": "2024-11-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Super",
+        "thumbsUp": 0,
+        "version": "0.2.4"
+    },
+    {
+        "id": "581d69b7-be31-4692-8b55-0048463b3dbc",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.2.3"
+    },
+    {
         "id": "7a2f2886-3d7a-4e3b-9e4a-cb486555a51a",
         "date": "2024-11-13",
         "score": 5,
@@ -358,6 +388,16 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
+        "thumbsUp": 2,
+        "version": "0.2.1"
+    },
+    {
+        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fast and good but not update tnsed school app new version",
         "thumbsUp": 1,
         "version": "0.2.1"
     },
@@ -368,18 +408,28 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 2,
+        "thumbsUp": 3,
         "version": "0.2.1"
     },
     {
-        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
+        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
         "date": "2024-10-14",
-        "score": 5,
-        "scoreText": "5",
+        "score": 4,
+        "scoreText": "4",
         "title": null,
-        "text": "Fast and good but not update tnsed school app new version",
+        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
+        "thumbsUp": 2,
+        "version": "0.1.9"
+    },
+    {
+        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "date": "2024-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 3,
-        "version": "0.2.1"
+        "version": "0.1.9"
     },
     {
         "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
@@ -389,26 +439,6 @@
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 4,
-        "version": "0.1.9"
-    },
-    {
-        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
-        "date": "2024-10-14",
-        "score": 4,
-        "scoreText": "4",
-        "title": null,
-        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 2,
-        "version": "0.1.9"
-    },
-    {
-        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
-        "date": "2024-10-14",
-        "score": 4,
-        "scoreText": "4",
-        "title": null,
-        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 3,
         "version": "0.1.9"
     },
     {
@@ -638,7 +668,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "0.2.0"
     },
     {
@@ -658,7 +688,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "0.2.0"
     },
     {
@@ -1190,7 +1220,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 1,
+        "thumbsUp": 4,
         "version": "0.1.3"
     },
     {
@@ -1200,7 +1230,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 4,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -1230,7 +1260,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.6"
     },
     {
@@ -1240,7 +1270,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.6"
     },
     {
@@ -1290,7 +1320,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 11,
+        "thumbsUp": 21,
         "version": "0.1.5"
     },
     {
@@ -1330,7 +1360,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 21,
+        "thumbsUp": 11,
         "version": "0.1.5"
     },
     {
@@ -1474,7 +1504,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 0,
+        "thumbsUp": 18,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -1487,7 +1517,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 18,
+        "thumbsUp": 0,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -1586,17 +1616,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 18,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -1616,6 +1636,16 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 18,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 25,
         "version": "0.1.3"
     },
@@ -1626,17 +1656,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "9c5ee06e-d87a-4ab9-99ff-b1651e491ba8",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 0,
+        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {
@@ -1647,6 +1667,16 @@
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
         "thumbsUp": 1,
+        "version": "0.1.3"
+    },
+    {
+        "id": "9c5ee06e-d87a-4ab9-99ff-b1651e491ba8",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "In my mobile library option not shown can u solve this I tried many times",
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -1869,7 +1899,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.1.1"
     },
     {
@@ -1879,7 +1909,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.1.1"
     },
     {
