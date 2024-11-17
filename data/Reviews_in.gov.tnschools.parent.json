@@ -1,5 +1,165 @@
 [
     {
+        "id": "f3905f1d-ef22-433a-abe9-cfd14eeea917",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "ec2299b1-ff13-4890-8a45-ec8b6d40ea8f",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "cfbcfdf1-bfff-4bc3-9413-c4dc07975a43",
+        "date": "2024-11-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not open",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "be2f725b-94d6-4da9-8286-821d11752757",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "b1a65429-3fd1-49e2-9ec5-1a78fadadaf5",
+        "date": "2024-11-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I downloaded the new version but still app is not opening. It shows the update option again. Please fix it.",
+        "thumbsUp": 1,
+        "version": "0.0.38"
+    },
+    {
+        "id": "6b869c53-208c-48ab-91d8-ec45a0b6b84e",
+        "date": "2024-11-15",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "It's not working please fix bug",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "600b28c5-1a84-429e-825f-fde1cac65d75",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "53b35fbb-5842-41e1-9e58-0c4bea16c89f",
+        "date": "2024-11-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not updated",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "4b660bd8-78a5-460d-9807-0fbfde52d7a9",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "436b9e70-b92f-4601-88c4-6f3048c9ecc6",
+        "date": "2024-11-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It is not opening, worst",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "26716bc2-5066-4df2-b030-25d282919ed1",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "1f4f3b85-b61f-4ded-8ad7-3e62f94ff32f",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "1ef2fb57-7542-4d28-8936-5527346e20cb",
+        "date": "2024-11-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "1af08371-4c98-4b10-b733-10d8681de4f8",
+        "date": "2024-11-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very poover",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "190020fd-16a1-4ed8-ab29-6c086fbb1b0f",
+        "date": "2024-11-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "GOOD",
+        "thumbsUp": 0,
+        "version": "0.0.38"
+    },
+    {
+        "id": "0c69d087-3f78-4a97-97b6-64ad487fdf4f",
+        "date": "2024-11-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
         "id": "0b5a6c0d-6e5b-49b9-82dd-c9b55cb97d83",
         "date": "2024-10-26",
         "score": 5,
@@ -106,7 +266,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
@@ -116,7 +276,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -206,7 +366,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
@@ -216,7 +376,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
