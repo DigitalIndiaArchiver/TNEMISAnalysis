@@ -1,5 +1,25 @@
 [
     {
+        "id": "d0a777c6-0f3a-4095-bdc4-898720a59658",
+        "date": "2024-11-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "0.0.39"
+    },
+    {
+        "id": "99324d93-9246-4484-aaed-ff01d3d08c24",
+        "date": "2024-11-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Superb",
+        "thumbsUp": 0,
+        "version": "0.0.39"
+    },
+    {
         "id": "f3905f1d-ef22-433a-abe9-cfd14eeea917",
         "date": "2024-11-15",
         "score": 5,
@@ -366,7 +386,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -376,7 +396,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
