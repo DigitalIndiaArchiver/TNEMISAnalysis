@@ -119,7 +119,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 0,
+        "thumbsUp": 4,
         "version": "0.2.6"
     },
     {
@@ -149,7 +149,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 4,
+        "thumbsUp": 0,
         "version": "0.2.6"
     },
     {
@@ -330,7 +330,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "0.2.3"
     },
     {
@@ -350,7 +350,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "0.2.3"
     },
     {
@@ -582,16 +582,6 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 2,
-        "version": "0.2.1"
-    },
-    {
-        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
-        "date": "2024-10-14",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Fast and good but not update tnsed school app new version",
         "thumbsUp": 0,
         "version": "0.2.1"
     },
@@ -606,13 +596,23 @@
         "version": "0.2.1"
     },
     {
+        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fast and good but not update tnsed school app new version",
+        "thumbsUp": 2,
+        "version": "0.2.1"
+    },
+    {
         "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
         "date": "2024-10-14",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 3,
+        "thumbsUp": 2,
         "version": "0.1.9"
     },
     {
@@ -632,7 +632,7 @@
         "scoreText": "4",
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 2,
+        "thumbsUp": 3,
         "version": "0.1.9"
     },
     {
@@ -1711,6 +1711,19 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 5,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 16,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
@@ -1725,19 +1738,6 @@
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 12,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 5,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -1810,6 +1810,16 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 25,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 18,
         "version": "0.1.3"
     },
@@ -1830,7 +1840,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 25,
+        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {
@@ -1841,16 +1851,6 @@
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {

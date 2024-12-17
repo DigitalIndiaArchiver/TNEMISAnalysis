@@ -9,16 +9,16 @@
                 "type": "Calendar"
             },
             {
-                "data": "Precise location",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Location"
-            },
-            {
                 "data": "Files and docs",
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Location"
             },
             {
                 "data": "Photos",
