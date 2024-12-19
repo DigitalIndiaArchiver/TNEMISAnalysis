@@ -3,6 +3,12 @@
         "sharedData": [],
         "collectedData": [
             {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Location"
+            },
+            {
                 "data": "Files and docs",
                 "optional": true,
                 "purpose": "App functionality",
@@ -13,12 +19,6 @@
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Calendar"
-            },
-            {
-                "data": "Precise location",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Location"
             },
             {
                 "data": "Photos",
