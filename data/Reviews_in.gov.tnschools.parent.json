@@ -1,5 +1,15 @@
 [
     {
+        "id": "a0f01229-6c33-4d28-882e-e59fe6598226",
+        "date": "2024-12-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "As a parent I am unable to login because I don't have any login information provided from the school.",
+        "thumbsUp": 0,
+        "version": "0.0.41"
+    },
+    {
         "id": "4fdbd4bd-9067-4051-9e40-f86b90a4367c",
         "date": "2024-11-29",
         "score": 5,
@@ -316,7 +326,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -326,7 +336,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
@@ -416,7 +426,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -426,7 +436,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
