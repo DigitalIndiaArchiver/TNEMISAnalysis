@@ -1,6 +1,14 @@
 {
     "results": [
         {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
+        },
+        {
             "permission": "read the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
@@ -15,6 +23,10 @@
         {
             "permission": "modify or delete the contents of your USB storage",
             "type": "Storage"
+        },
+        {
+            "permission": "take pictures and videos",
+            "type": "Camera"
         },
         {
             "permission": "view Wi-Fi connections",
