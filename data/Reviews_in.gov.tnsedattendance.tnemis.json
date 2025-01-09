@@ -1,5 +1,37 @@
 [
     {
+        "id": "653831dd-b0a2-4c21-abb3-655de25f7478",
+        "date": "2025-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
+        "id": "89d512ac-0bcf-40c8-9296-9dc1f4de6a70",
+        "date": "2025-01-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very poor performence",
+        "thumbsUp": 0,
+        "version": "8.0",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "3d6cbbda-91fd-42db-b048-daddf00e0d7b",
+        "date": "2025-01-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good performance",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
         "id": "de2214c6-7981-4ffb-b2a7-0d07d5e46d92",
         "date": "2025-01-06",
         "score": 5,
@@ -356,7 +388,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
@@ -366,7 +398,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -416,7 +448,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This is a great app. It would be advance to see more improvements in the future",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "7.0"
     },
     {
@@ -426,7 +458,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This is a great app. It would be advance to see more improvements in the future",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "7.0"
     },
     {
