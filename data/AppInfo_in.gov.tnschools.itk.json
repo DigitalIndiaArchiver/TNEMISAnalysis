@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 787629,
-    "score": 4.265236,
+    "score": 4.2658663,
     "scoreText": "4.3",
     "ratings": 11656,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
     "histogram": {
-        "1": 870,
-        "2": 500,
-        "3": 990,
-        "4": 1600,
-        "5": 7693
+        "1": 869,
+        "2": 499,
+        "3": 989,
+        "4": 1598,
+        "5": 7697
     },
     "price": 0,
     "free": true,
