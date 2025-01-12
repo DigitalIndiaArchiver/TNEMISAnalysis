@@ -326,7 +326,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -336,7 +336,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
