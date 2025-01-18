@@ -15,12 +15,6 @@
                 "type": "Photos and videos"
             },
             {
-                "data": "Files and docs",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Files and docs"
-            },
-            {
                 "data": "Calendar events",
                 "optional": true,
                 "purpose": "App functionality",
@@ -31,6 +25,12 @@
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Location"
+            },
+            {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Files and docs"
             }
         ],
         "securityPractices": [
