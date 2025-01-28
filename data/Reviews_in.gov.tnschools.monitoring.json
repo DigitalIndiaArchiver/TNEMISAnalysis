@@ -1,5 +1,15 @@
 [
     {
+        "id": "c6aa94f9-fd76-48e9-82c1-a40e651fc9cc",
+        "date": "2025-01-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Camera permission is not working. No settimgs option in this app. Setting option to permit camera if enabled in this app it will be helpful.",
+        "thumbsUp": 0,
+        "version": "0.3.9"
+    },
+    {
         "id": "c4a9ffda-9217-4d44-af61-58dbcfb9710a",
         "date": "2024-12-31",
         "score": 5,
@@ -96,7 +106,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -106,7 +116,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
