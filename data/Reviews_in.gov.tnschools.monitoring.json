@@ -1,5 +1,15 @@
 [
     {
+        "id": "92ff8cd5-0f7a-42cf-ade9-04a30dc326eb",
+        "date": "2025-01-29",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "When I registered the details of the school visit training and comprehensive assessment report for Inclusive Education students, nothing has been uploaded.",
+        "thumbsUp": 0,
+        "version": "0.4.0"
+    },
+    {
         "id": "c6aa94f9-fd76-48e9-82c1-a40e651fc9cc",
         "date": "2025-01-26",
         "score": 1,
@@ -126,7 +136,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
@@ -136,7 +146,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -368,7 +378,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
@@ -378,7 +388,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
