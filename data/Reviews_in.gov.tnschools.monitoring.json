@@ -1,5 +1,15 @@
 [
     {
+        "id": "e9c86a74-68d8-4d86-b22a-7f289e8af1c0",
+        "date": "2025-02-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Year 2025 not updated. Pl update it.",
+        "thumbsUp": 0,
+        "version": "0.4.0"
+    },
+    {
         "id": "d911b54d-ff84-4365-ab81-3d8f49b04e40",
         "date": "2025-02-05",
         "score": 5,
@@ -136,7 +146,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -146,7 +156,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -358,7 +368,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
@@ -368,7 +378,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
@@ -398,7 +408,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
@@ -408,7 +418,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
