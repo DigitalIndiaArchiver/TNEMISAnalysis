@@ -3,10 +3,16 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Calendar events",
+                "data": "Photos",
                 "optional": true,
                 "purpose": "App functionality",
-                "type": "Calendar"
+                "type": "Photos and videos"
+            },
+            {
+                "data": "Videos",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Photos and videos"
             },
             {
                 "data": "Files and docs",
@@ -21,16 +27,10 @@
                 "type": "Location"
             },
             {
-                "data": "Photos",
+                "data": "Calendar events",
                 "optional": true,
                 "purpose": "App functionality",
-                "type": "Photos and videos"
-            },
-            {
-                "data": "Videos",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Photos and videos"
+                "type": "Calendar"
             }
         ],
         "securityPractices": [
