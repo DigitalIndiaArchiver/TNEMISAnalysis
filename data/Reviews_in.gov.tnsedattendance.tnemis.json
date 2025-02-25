@@ -1,5 +1,15 @@
 [
     {
+        "id": "e2ddbc62-bd29-42fc-9ebe-fd81b8e589fa",
+        "date": "2025-02-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not supporting for android version 6 Please update for lower configurations too Thank you",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
         "id": "19ac021f-ef61-4975-b23b-47e6e7585ce5",
         "date": "2025-02-10",
         "score": 5,
@@ -148,7 +158,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -158,7 +168,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
