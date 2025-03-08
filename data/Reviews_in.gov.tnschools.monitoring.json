@@ -1,5 +1,15 @@
 [
     {
+        "id": "b9d05afa-9457-4fac-b867-88a760a65fd2",
+        "date": "2025-03-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good",
+        "thumbsUp": 0,
+        "version": "0.4.2"
+    },
+    {
         "id": "42986383-cf39-4cb0-b075-463a2a538c42",
         "date": "2025-03-04",
         "score": 1,
@@ -448,7 +458,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
@@ -458,7 +468,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
