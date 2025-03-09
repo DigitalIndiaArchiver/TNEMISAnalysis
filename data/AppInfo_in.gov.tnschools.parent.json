@@ -5,17 +5,17 @@
     "summary": "For parents of students from Tamil Nadu for information and school management",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 242529,
-    "score": 3.9607842,
+    "maxInstalls": 242544,
+    "score": 3.9708738,
     "scoreText": "4.0",
-    "ratings": 519,
+    "ratings": 520,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/reviews",
     "histogram": {
-        "1": 76,
+        "1": 75,
         "2": 20,
         "3": 40,
-        "4": 91,
-        "5": 290
+        "4": 90,
+        "5": 292
     },
     "price": 0,
     "free": true,
