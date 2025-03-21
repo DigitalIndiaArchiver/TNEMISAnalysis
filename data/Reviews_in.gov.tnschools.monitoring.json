@@ -1,5 +1,15 @@
 [
     {
+        "id": "4d21b090-762c-4b5b-9d7d-c1cee37d2097",
+        "date": "2025-03-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
         "id": "b6624bdd-70c8-4620-afb7-d37e5d4619b2",
         "date": "2025-03-14",
         "score": 1,
@@ -226,7 +236,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -236,7 +246,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -488,7 +498,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
@@ -498,7 +508,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
