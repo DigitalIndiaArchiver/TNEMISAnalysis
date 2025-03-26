@@ -1,5 +1,15 @@
 [
     {
+        "id": "5c5561a8-e4ce-46f3-b495-28f926e934f8",
+        "date": "2025-03-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "locations are not correct...better add direction to the school and awc in app",
+        "thumbsUp": 0,
+        "version": "0.4.4"
+    },
+    {
         "id": "4d21b090-762c-4b5b-9d7d-c1cee37d2097",
         "date": "2025-03-19",
         "score": 4,
@@ -236,7 +246,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -246,7 +256,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -256,7 +266,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
@@ -266,7 +276,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
