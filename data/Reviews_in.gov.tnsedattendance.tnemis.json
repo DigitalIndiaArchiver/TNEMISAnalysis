@@ -1,5 +1,15 @@
 [
     {
+        "id": "08f60b81-0dae-4904-ab45-1d1bf2a8076f",
+        "date": "2025-03-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
+        "thumbsUp": 1,
+        "version": "8.0"
+    },
+    {
         "id": "33da3e59-8406-44e0-a291-ec6fb44dd6a7",
         "date": "2025-03-22",
         "score": 1,
@@ -208,7 +218,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -218,7 +228,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
