@@ -4,7 +4,7 @@
         "collectedData": [
             {
                 "data": "Precise location",
-                "optional": true,
+                "optional": 1,
                 "purpose": "App functionality",
                 "type": "Location"
             }
