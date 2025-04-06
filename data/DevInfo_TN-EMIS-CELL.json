@@ -15,7 +15,7 @@
             "free": true,
             "summary": "Your journey of simple and enjoyable self-learning begins here. <br><br>Self-learn Math, Physics, Chemistry, Botany and Zoology lessons linked to the Tamil Nadu state syllabus with this app. The simple and engaging content is in the form of bi-lingual (Tamil &amp; English) animated videos. Learn concepts with ease and check your understanding with a quiz at the end of every video. Presently, it will work only on devices with Android OS. <br><br>This app has been created by the Tamil Nadu School Education Department. <br><br>This app is work-in-progress. More subjects and related videos as well as questions will be added to the app in due course of time.",
             "scoreText": "4.1",
-            "score": 4.0689654,
+            "score": 4.111111,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedstudent.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/similar",
@@ -37,12 +37,34 @@
             "free": true,
             "summary": "\u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b92\u0bb0\u0bc1 \u0ba4\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd\u0bb5 \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1. \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8 \u0baa\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0bb5\u0bc6\u0bb3\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bb0\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.<br><br><br><br>ILLAM THEDI KALVI is a volunteering initiative. In order to cater to the needs of the learning gap caused because of lockdowns due to the COVID outbreak, this initiative is being carried out by the School Education Department, Government of Tamil Nadu. All the volunteers can make use of the mobile application to access the features available for all the volunteers.",
             "scoreText": "4.3",
-            "score": 4.2805815,
+            "score": 4.276831,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.itk",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "TNSED Attendance",
+            "appId": "in.gov.tnsedattendance.tnemis",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis",
+            "icon": "https://play-lh.googleusercontent.com/GZf96-Jq2AF6Nou0JeEfiKpyJNPjLvs3-PyDmrIMTT6ajDR7m9Z7LxKhSSB2D88ClJM",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "As part of the exercise to improve the efficiency of the various mobile applications and to simplify the update life cycle of various apps for the end user, the mobile based attendance has been separated from the main TNSED Schools app and deployed as a separate app on the play store. This will ensure better user experience and decreased number of updates for the staff of School Education Department, Government of Tamil Nadu.",
+            "scoreText": "4.2",
+            "score": 4.2046514,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedattendance.tnemis",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
@@ -65,28 +87,6 @@
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TNSED Attendance",
-            "appId": "in.gov.tnsedattendance.tnemis",
-            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis",
-            "icon": "https://play-lh.googleusercontent.com/GZf96-Jq2AF6Nou0JeEfiKpyJNPjLvs3-PyDmrIMTT6ajDR7m9Z7LxKhSSB2D88ClJM",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "As part of the exercise to improve the efficiency of the various mobile applications and to simplify the update life cycle of various apps for the end user, the mobile based attendance has been separated from the main TNSED Schools app and deployed as a separate app on the play store. This will ensure better user experience and decreased number of updates for the staff of School Education Department, Government of Tamil Nadu.",
-            "scoreText": "4.2",
-            "score": 4.2,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedattendance.tnemis",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
