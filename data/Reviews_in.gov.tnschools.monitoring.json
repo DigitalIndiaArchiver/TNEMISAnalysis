@@ -1,5 +1,15 @@
 [
     {
+        "id": "43988e63-7cef-49f6-9fa5-922c0f4f9c9b",
+        "date": "2025-04-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I DIDN'T OPEN MY CAMERA IN THIS APP WHAT CAN I DO",
+        "thumbsUp": 0,
+        "version": "0.4.6"
+    },
+    {
         "id": "5bc7586d-11c1-4eb7-9ca9-451c28572e8e",
         "date": "2025-04-08",
         "score": 1,
@@ -256,7 +266,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -266,7 +276,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -276,7 +286,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
@@ -286,7 +296,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -478,7 +488,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
@@ -488,7 +498,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {

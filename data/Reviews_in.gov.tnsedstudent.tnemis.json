@@ -1,5 +1,15 @@
 [
     {
+        "id": "9d3c0650-2be8-4740-85f3-a3e7c8824178",
+        "date": "2025-04-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent app for all",
+        "thumbsUp": 0,
+        "version": "0.0.41"
+    },
+    {
         "id": "736ae813-8581-4c72-b5d9-3695bc566d4a",
         "date": "2025-04-18",
         "score": 5,
@@ -306,7 +316,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This app woks like a good teacher . thank you manarkeni app",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -316,7 +326,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This app woks like a good teacher . thank you manarkeni app",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -436,7 +446,7 @@
         "scoreText": "4",
         "title": null,
         "text": "I want to share that till now some videos for 10th std in maths have not been posted since we are having exam in just 1 month so I request that to post the video so far quickly and the explanation was really good thus the government was helping the students by introducing this app this was useful...",
-        "thumbsUp": 30,
+        "thumbsUp": 18,
         "version": "0.0.40"
     },
     {
@@ -466,7 +476,7 @@
         "scoreText": "4",
         "title": null,
         "text": "I want to share that till now some videos for 10th std in maths have not been posted since we are having exam in just 1 month so I request that to post the video so far quickly and the explanation was really good thus the government was helping the students by introducing this app this was useful...",
-        "thumbsUp": 1,
+        "thumbsUp": 30,
         "version": "0.0.40"
     },
     {
@@ -476,7 +486,7 @@
         "scoreText": "4",
         "title": null,
         "text": "I want to share that till now some videos for 10th std in maths have not been posted since we are having exam in just 1 month so I request that to post the video so far quickly and the explanation was really good thus the government was helping the students by introducing this app this was useful...",
-        "thumbsUp": 18,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -516,7 +526,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very useful for all kind of students ..and teaching staffs thank you for creating manarkeni...greatful job...🙏🙏👌🤝👏",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -526,7 +536,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very useful for all kind of students ..and teaching staffs thank you for creating manarkeni...greatful job...🙏🙏👌🤝👏",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -646,7 +656,7 @@
         "scoreText": "3",
         "title": null,
         "text": "Thanks for this app it is very useful for my education",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -656,7 +666,7 @@
         "scoreText": "3",
         "title": null,
         "text": "Thanks for this app it is very useful for my education",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -756,7 +766,7 @@
         "scoreText": "5",
         "title": null,
         "text": "MANERKENI HELPS THE STUDENTS TO STUDY THE LESSON WITH THE HELP OF VIDEO LESSONS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -766,7 +776,7 @@
         "scoreText": "5",
         "title": null,
         "text": "MANERKENI HELPS THE STUDENTS TO STUDY THE LESSON WITH THE HELP OF VIDEO LESSONS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -796,7 +806,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very useful for the app for 1 to 12 class students,🙂🙂🙂",
-        "thumbsUp": 0,
+        "thumbsUp": 4,
         "version": "0.0.40"
     },
     {
@@ -806,7 +816,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very useful for the app for 1 to 12 class students,🙂🙂🙂",
-        "thumbsUp": 4,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -896,16 +906,6 @@
         "scoreText": "5",
         "title": null,
         "text": "Thank you for this wonderful app. It is very helpful for government students. Happy learning..........",
-        "thumbsUp": 20,
-        "version": "0.0.40"
-    },
-    {
-        "id": "8e5dd707-9334-44c3-b4df-7614e59371e6",
-        "date": "2025-02-11",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Thank you for this wonderful app. It is very helpful for government students. Happy learning..........",
         "thumbsUp": 0,
         "version": "0.0.40"
     },
@@ -917,6 +917,16 @@
         "title": null,
         "text": "Thank you for this wonderful app. It is very helpful for government students. Happy learning..........",
         "thumbsUp": 13,
+        "version": "0.0.40"
+    },
+    {
+        "id": "8e5dd707-9334-44c3-b4df-7614e59371e6",
+        "date": "2025-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you for this wonderful app. It is very helpful for government students. Happy learning..........",
+        "thumbsUp": 20,
         "version": "0.0.40"
     },
     {
@@ -1086,7 +1096,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Thank you TNSED Manarkani app this app very useful for my kids",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -1096,7 +1106,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Thank you TNSED Manarkani app this app very useful for my kids",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -1146,26 +1156,6 @@
         "scoreText": "5",
         "title": null,
         "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
-        "thumbsUp": 73,
-        "version": "0.0.40"
-    },
-    {
-        "id": "707e87ed-3004-4c90-b499-7d6263531d4e",
-        "date": "2025-02-07",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
-        "thumbsUp": 40,
-        "version": "0.0.40"
-    },
-    {
-        "id": "707e87ed-3004-4c90-b499-7d6263531d4e",
-        "date": "2025-02-07",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
         "thumbsUp": 3,
         "version": "0.0.40"
     },
@@ -1187,6 +1177,26 @@
         "title": null,
         "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
         "thumbsUp": 0,
+        "version": "0.0.40"
+    },
+    {
+        "id": "707e87ed-3004-4c90-b499-7d6263531d4e",
+        "date": "2025-02-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
+        "thumbsUp": 40,
+        "version": "0.0.40"
+    },
+    {
+        "id": "707e87ed-3004-4c90-b499-7d6263531d4e",
+        "date": "2025-02-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Wow this app is very nice It's helpful for all lessons And neet and jee And all classes. Please download this app it's help for you and anyone Thanks tamilnadu government It's helpful for school students I will learn all my lesson in few hours 😁 I scored high marks in my subject The anval exam it's very helpful Thank you",
+        "thumbsUp": 73,
         "version": "0.0.40"
     },
     {
@@ -1256,7 +1266,7 @@
         "scoreText": "5",
         "title": null,
         "text": "V. Good and excellent.useful for the classroom after teaching. Thank you.",
-        "thumbsUp": 0,
+        "thumbsUp": 65,
         "version": "0.0.40"
     },
     {
@@ -1266,7 +1276,7 @@
         "scoreText": "5",
         "title": null,
         "text": "V. Good and excellent.useful for the classroom after teaching. Thank you.",
-        "thumbsUp": 65,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -1346,7 +1356,7 @@
         "scoreText": "3",
         "title": null,
         "text": "This app is in only video.but only video link for not comfortable in download.so addition some variety of learning games and arts and craft work exersise and etc.Also make some videos too long and bore it and download difficult. This demerits are reduce better than this app.",
-        "thumbsUp": 8,
+        "thumbsUp": 4,
         "version": "0.0.40"
     },
     {
@@ -1366,7 +1376,7 @@
         "scoreText": "3",
         "title": null,
         "text": "This app is in only video.but only video link for not comfortable in download.so addition some variety of learning games and arts and craft work exersise and etc.Also make some videos too long and bore it and download difficult. This demerits are reduce better than this app.",
-        "thumbsUp": 4,
+        "thumbsUp": 8,
         "version": "0.0.40"
     },
     {
@@ -1616,7 +1626,7 @@
         "scoreText": "4",
         "title": null,
         "text": "Very useful this app( Manarkeni)",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.40"
     },
     {
@@ -1626,7 +1636,7 @@
         "scoreText": "4",
         "title": null,
         "text": "Very useful this app( Manarkeni)",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -1686,6 +1696,16 @@
         "scoreText": "5",
         "title": null,
         "text": "Super app 🎀🎀 useful for students for study👌😁😁",
+        "thumbsUp": 6,
+        "version": "0.0.40"
+    },
+    {
+        "id": "c08511f8-77a3-4cb2-9735-5f9d839eace5",
+        "date": "2025-02-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super app 🎀🎀 useful for students for study👌😁😁",
         "thumbsUp": 0,
         "version": "0.0.40"
     },
@@ -1697,16 +1717,6 @@
         "title": null,
         "text": "Super app 🎀🎀 useful for students for study👌😁😁",
         "thumbsUp": 1,
-        "version": "0.0.40"
-    },
-    {
-        "id": "c08511f8-77a3-4cb2-9735-5f9d839eace5",
-        "date": "2025-02-05",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Super app 🎀🎀 useful for students for study👌😁😁",
-        "thumbsUp": 6,
         "version": "0.0.40"
     },
     {
@@ -2036,7 +2046,7 @@
         "scoreText": "1",
         "title": null,
         "text": "can not install in raptor smartboard",
-        "thumbsUp": 6,
+        "thumbsUp": 0,
         "version": "0.0.40"
     },
     {
@@ -2056,7 +2066,7 @@
         "scoreText": "1",
         "title": null,
         "text": "can not install in raptor smartboard",
-        "thumbsUp": 2,
+        "thumbsUp": 6,
         "version": "0.0.40"
     },
     {
@@ -2066,7 +2076,7 @@
         "scoreText": "1",
         "title": null,
         "text": "can not install in raptor smartboard",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.0.40"
     },
     {
@@ -2136,26 +2146,6 @@
         "scoreText": "5",
         "title": null,
         "text": "Videos are very useful to understand the subject in detail. Thank you",
-        "thumbsUp": 9,
-        "version": "0.0.40"
-    },
-    {
-        "id": "1d5ab0b8-1472-465c-9dd5-0b6d4ece5425",
-        "date": "2025-01-28",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Videos are very useful to understand the subject in detail. Thank you",
-        "thumbsUp": 4,
-        "version": "0.0.40"
-    },
-    {
-        "id": "1d5ab0b8-1472-465c-9dd5-0b6d4ece5425",
-        "date": "2025-01-28",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Videos are very useful to understand the subject in detail. Thank you",
         "thumbsUp": 10,
         "version": "0.0.40"
     },
@@ -2166,7 +2156,27 @@
         "scoreText": "5",
         "title": null,
         "text": "Videos are very useful to understand the subject in detail. Thank you",
+        "thumbsUp": 9,
+        "version": "0.0.40"
+    },
+    {
+        "id": "1d5ab0b8-1472-465c-9dd5-0b6d4ece5425",
+        "date": "2025-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Videos are very useful to understand the subject in detail. Thank you",
         "thumbsUp": 0,
+        "version": "0.0.40"
+    },
+    {
+        "id": "1d5ab0b8-1472-465c-9dd5-0b6d4ece5425",
+        "date": "2025-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Videos are very useful to understand the subject in detail. Thank you",
+        "thumbsUp": 4,
         "version": "0.0.40"
     },
     {
@@ -2236,7 +2246,17 @@
         "scoreText": "1",
         "title": null,
         "text": "XI, XII - ENGLISH MEDIUM ( Matric ) - COMPUTER SCIENCE SUBJECT - LESSON VIDEOS from the - Lesson 1 to 18 Teaching Concept video is not available for the XI STANDARD & Lesson 1 to 16 Teaching Concept video is not available for the XII STANDARD, there is only a puzzle mode is available.",
-        "thumbsUp": 21,
+        "thumbsUp": 23,
+        "version": "0.0.40"
+    },
+    {
+        "id": "dc449a4e-f6ad-4ed0-a69e-51d68ac8c3b5",
+        "date": "2025-01-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "XI, XII - ENGLISH MEDIUM ( Matric ) - COMPUTER SCIENCE SUBJECT - LESSON VIDEOS from the - Lesson 1 to 18 Teaching Concept video is not available for the XI STANDARD & Lesson 1 to 16 Teaching Concept video is not available for the XII STANDARD, there is only a puzzle mode is available.",
+        "thumbsUp": 19,
         "version": "0.0.40"
     },
     {
@@ -2256,17 +2276,7 @@
         "scoreText": "1",
         "title": null,
         "text": "XI, XII - ENGLISH MEDIUM ( Matric ) - COMPUTER SCIENCE SUBJECT - LESSON VIDEOS from the - Lesson 1 to 18 Teaching Concept video is not available for the XI STANDARD & Lesson 1 to 16 Teaching Concept video is not available for the XII STANDARD, there is only a puzzle mode is available.",
-        "thumbsUp": 23,
-        "version": "0.0.40"
-    },
-    {
-        "id": "dc449a4e-f6ad-4ed0-a69e-51d68ac8c3b5",
-        "date": "2025-01-25",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "XI, XII - ENGLISH MEDIUM ( Matric ) - COMPUTER SCIENCE SUBJECT - LESSON VIDEOS from the - Lesson 1 to 18 Teaching Concept video is not available for the XI STANDARD & Lesson 1 to 16 Teaching Concept video is not available for the XII STANDARD, there is only a puzzle mode is available.",
-        "thumbsUp": 19,
+        "thumbsUp": 21,
         "version": "0.0.40"
     },
     {
@@ -2316,6 +2326,16 @@
         "scoreText": "5",
         "title": null,
         "text": "Amazing learning app from Tamil Nadu Government, kindly update all lessons",
+        "thumbsUp": 2,
+        "version": "0.0.39"
+    },
+    {
+        "id": "43c7dd12-8bd2-42ec-afb7-a04a5a0f22bb",
+        "date": "2025-01-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Amazing learning app from Tamil Nadu Government, kindly update all lessons",
         "thumbsUp": 0,
         "version": "0.0.39"
     },
@@ -2327,16 +2347,6 @@
         "title": null,
         "text": "Amazing learning app from Tamil Nadu Government, kindly update all lessons",
         "thumbsUp": 1,
-        "version": "0.0.39"
-    },
-    {
-        "id": "43c7dd12-8bd2-42ec-afb7-a04a5a0f22bb",
-        "date": "2025-01-24",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Amazing learning app from Tamil Nadu Government, kindly update all lessons",
-        "thumbsUp": 2,
         "version": "0.0.39"
     },
     {
@@ -2586,7 +2596,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Some options are not available in the question and this is amazing idea 💡 Thanks to Tn govt . Pls crt the issue kindly request you sir .",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.39"
     },
     {
@@ -2596,7 +2606,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Some options are not available in the question and this is amazing idea 💡 Thanks to Tn govt . Pls crt the issue kindly request you sir .",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.39"
     },
     {
@@ -2786,16 +2796,6 @@
         "scoreText": "5",
         "title": null,
         "text": "It is very useful for students to understand the Science concepts. SAKTHIVEL M , CHS ANUPPARPALAYAM, COIMBATORE-18.",
-        "thumbsUp": 0,
-        "version": "0.0.39"
-    },
-    {
-        "id": "f42a14d6-31e8-4317-bcf4-3fc78fde7202",
-        "date": "2025-01-04",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "It is very useful for students to understand the Science concepts. SAKTHIVEL M , CHS ANUPPARPALAYAM, COIMBATORE-18.",
         "thumbsUp": 3,
         "version": "0.0.39"
     },
@@ -2807,6 +2807,16 @@
         "title": null,
         "text": "It is very useful for students to understand the Science concepts. SAKTHIVEL M , CHS ANUPPARPALAYAM, COIMBATORE-18.",
         "thumbsUp": 4,
+        "version": "0.0.39"
+    },
+    {
+        "id": "f42a14d6-31e8-4317-bcf4-3fc78fde7202",
+        "date": "2025-01-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It is very useful for students to understand the Science concepts. SAKTHIVEL M , CHS ANUPPARPALAYAM, COIMBATORE-18.",
+        "thumbsUp": 0,
         "version": "0.0.39"
     },
     {
@@ -2966,7 +2976,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Fantastic app very useful for students",
-        "thumbsUp": 1,
+        "thumbsUp": 3,
         "version": "0.0.39"
     },
     {
@@ -2986,7 +2996,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Fantastic app very useful for students",
-        "thumbsUp": 3,
+        "thumbsUp": 0,
         "version": "0.0.39"
     },
     {
@@ -2996,7 +3006,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Fantastic app very useful for students",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.39"
     },
     {
@@ -3996,7 +4006,7 @@
         "scoreText": "4",
         "title": null,
         "text": "It's very better than our normal teacher's teaching since there is animation and etc..But some videos are not available that's the only problem so please fix it.Other than that no problem is there in this app.Such a useful app.It might be good if tamil and english are in seperate video.At last it's a best app.... -12th standard(2024-2025)",
-        "thumbsUp": 8,
+        "thumbsUp": 2,
         "version": "0.0.31"
     },
     {
@@ -4006,7 +4016,7 @@
         "scoreText": "4",
         "title": null,
         "text": "It's very better than our normal teacher's teaching since there is animation and etc..But some videos are not available that's the only problem so please fix it.Other than that no problem is there in this app.Such a useful app.It might be good if tamil and english are in seperate video.At last it's a best app.... -12th standard(2024-2025)",
-        "thumbsUp": 2,
+        "thumbsUp": 8,
         "version": "0.0.31"
     },
     {
@@ -4076,16 +4086,6 @@
         "scoreText": "4",
         "title": null,
         "text": "Why some videos are not available? This app is useful for students but please check this.",
-        "thumbsUp": 3,
-        "version": "0.0.31"
-    },
-    {
-        "id": "3ff36299-6431-4c29-9964-636f0163022e",
-        "date": "2024-06-28",
-        "score": 4,
-        "scoreText": "4",
-        "title": null,
-        "text": "Why some videos are not available? This app is useful for students but please check this.",
         "thumbsUp": 0,
         "version": "0.0.31"
     },
@@ -4097,6 +4097,16 @@
         "title": null,
         "text": "Why some videos are not available? This app is useful for students but please check this.",
         "thumbsUp": 1,
+        "version": "0.0.31"
+    },
+    {
+        "id": "3ff36299-6431-4c29-9964-636f0163022e",
+        "date": "2024-06-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Why some videos are not available? This app is useful for students but please check this.",
+        "thumbsUp": 3,
         "version": "0.0.31"
     },
     {
@@ -4146,6 +4156,16 @@
         "scoreText": "5",
         "title": null,
         "text": "This app is very usefull...user friendly...It is very for NEET and JEE preparation... Subject contents clarified deeply...",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
+        "id": "db7b6a87-5fed-43d6-97c4-112d5b49be83",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This app is very usefull...user friendly...It is very for NEET and JEE preparation... Subject contents clarified deeply...",
         "thumbsUp": 1,
         "version": "0.0.31"
     },
@@ -4157,16 +4177,6 @@
         "title": null,
         "text": "This app is very usefull...user friendly...It is very for NEET and JEE preparation... Subject contents clarified deeply...",
         "thumbsUp": 2,
-        "version": "0.0.31"
-    },
-    {
-        "id": "db7b6a87-5fed-43d6-97c4-112d5b49be83",
-        "date": "2024-06-26",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This app is very usefull...user friendly...It is very for NEET and JEE preparation... Subject contents clarified deeply...",
-        "thumbsUp": 0,
         "version": "0.0.31"
     },
     {
@@ -4236,6 +4246,16 @@
         "scoreText": "5",
         "title": null,
         "text": "I am ADHIKESAVAN from GHSS, Karuveppilankurichi, Cuddalore District. Excellent App to our Govt School Students to learn their subjects Concept more and very useful to NEET, JEE Entrance Exam",
+        "thumbsUp": 0,
+        "version": "0.0.31"
+    },
+    {
+        "id": "10700357-10bb-48f6-b738-474048f06249",
+        "date": "2024-06-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am ADHIKESAVAN from GHSS, Karuveppilankurichi, Cuddalore District. Excellent App to our Govt School Students to learn their subjects Concept more and very useful to NEET, JEE Entrance Exam",
         "thumbsUp": 1,
         "version": "0.0.31"
     },
@@ -4257,16 +4277,6 @@
         "title": null,
         "text": "I am ADHIKESAVAN from GHSS, Karuveppilankurichi, Cuddalore District. Excellent App to our Govt School Students to learn their subjects Concept more and very useful to NEET, JEE Entrance Exam",
         "thumbsUp": 3,
-        "version": "0.0.31"
-    },
-    {
-        "id": "10700357-10bb-48f6-b738-474048f06249",
-        "date": "2024-06-24",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "I am ADHIKESAVAN from GHSS, Karuveppilankurichi, Cuddalore District. Excellent App to our Govt School Students to learn their subjects Concept more and very useful to NEET, JEE Entrance Exam",
-        "thumbsUp": 0,
         "version": "0.0.31"
     },
     {
@@ -4316,7 +4326,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Manarkeni app will be definitely an useful tool for the government students and students in general. Also a great source for teachers. If done for languages also, It will be appreciated.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": null
     },
     {
@@ -4326,7 +4336,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Manarkeni app will be definitely an useful tool for the government students and students in general. Also a great source for teachers. If done for languages also, It will be appreciated.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -4396,7 +4406,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It is wonderful app for TN students. But pls updte all your videos",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -4406,7 +4416,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It is wonderful app for TN students. But pls updte all your videos",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
