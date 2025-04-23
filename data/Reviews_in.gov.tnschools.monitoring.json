@@ -1,5 +1,15 @@
 [
     {
+        "id": "c1dfc62d-0b22-49c8-abe0-e7d63ec6ef58",
+        "date": "2025-04-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "camera access not working for all tnsed apps in moto g85 -android 15.pls rectify.",
+        "thumbsUp": 0,
+        "version": "0.4.6"
+    },
+    {
         "id": "43988e63-7cef-49f6-9fa5-922c0f4f9c9b",
         "date": "2025-04-19",
         "score": 3,
@@ -266,7 +276,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -276,7 +286,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -286,7 +296,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -296,7 +306,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
@@ -488,7 +498,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
@@ -498,7 +508,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
@@ -528,7 +538,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
@@ -538,7 +548,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
