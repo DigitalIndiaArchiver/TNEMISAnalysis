@@ -1,6 +1,14 @@
 {
     "results": [
         {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
+        },
+        {
             "permission": "directly call phone numbers",
             "type": "Phone"
         },
