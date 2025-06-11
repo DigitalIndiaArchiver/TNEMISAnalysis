@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 506260,
-    "score": 4.225806,
+    "score": 4.24424,
     "scoreText": "4.2",
     "ratings": 2178,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedattendance.tnemis/reviews",
     "histogram": {
-        "1": 230,
+        "1": 220,
         "2": 80,
         "3": 140,
         "4": 240,
-        "5": 1485
+        "5": 1495
     },
     "price": 0,
     "free": true,
