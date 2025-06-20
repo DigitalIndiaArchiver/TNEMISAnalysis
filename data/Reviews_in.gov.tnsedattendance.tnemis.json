@@ -1,5 +1,25 @@
 [
     {
+        "id": "cc3df092-473c-440c-8056-043757e69614",
+        "date": "2025-06-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
+        "id": "52b649e1-a8f0-4a1b-8b1c-ce5fe0a9c772",
+        "date": "2025-06-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "speed is good 👍",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
         "id": "4ba21651-2d97-409a-9b14-41010582d25f",
         "date": "2025-06-17",
         "score": 5,
@@ -116,7 +136,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "8.0"
     },
     {
@@ -126,7 +146,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -708,7 +728,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
@@ -718,7 +738,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
