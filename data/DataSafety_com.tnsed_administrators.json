@@ -15,6 +15,12 @@
                 "type": "Location"
             },
             {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Calendar"
+            },
+            {
                 "data": "Photos",
                 "optional": 1,
                 "purpose": "App functionality",
@@ -25,12 +31,6 @@
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Photos and videos"
-            },
-            {
-                "data": "Calendar events",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Calendar"
             }
         ],
         "securityPractices": [
