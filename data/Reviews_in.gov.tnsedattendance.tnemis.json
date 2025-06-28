@@ -1,5 +1,15 @@
 [
     {
+        "id": "a85a13a8-915b-48ff-a487-6bb2c469140f",
+        "date": "2025-06-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It doesn't work for my android phone",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
         "id": "411261f7-6a2f-41e1-91eb-07587942849f",
         "date": "2025-06-25",
         "score": 5,
@@ -368,7 +378,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -378,7 +388,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
@@ -738,7 +748,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -748,7 +758,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
