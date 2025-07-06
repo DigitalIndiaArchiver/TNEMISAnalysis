@@ -9,18 +9,6 @@
                 "type": "Location"
             },
             {
-                "data": "Photos",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Photos and videos"
-            },
-            {
-                "data": "Videos",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Photos and videos"
-            },
-            {
                 "data": "Calendar events",
                 "optional": 1,
                 "purpose": "App functionality",
@@ -31,6 +19,18 @@
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Photos",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Photos and videos"
+            },
+            {
+                "data": "Videos",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Photos and videos"
             }
         ],
         "securityPractices": [
