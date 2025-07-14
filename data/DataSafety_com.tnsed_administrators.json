@@ -15,10 +15,10 @@
                 "type": "Photos and videos"
             },
             {
-                "data": "Files and docs",
+                "data": "Calendar events",
                 "optional": 1,
                 "purpose": "App functionality",
-                "type": "Files and docs"
+                "type": "Calendar"
             },
             {
                 "data": "Precise location",
@@ -27,10 +27,10 @@
                 "type": "Location"
             },
             {
-                "data": "Calendar events",
+                "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality",
-                "type": "Calendar"
+                "type": "Files and docs"
             }
         ],
         "securityPractices": [
