@@ -3,9 +3,9 @@
     "description": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
     "descriptionHTML": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
     "summary": "Stay updated on PTA meetings, school policies, and education news.",
-    "installs": "5+",
-    "minInstalls": 5,
-    "maxInstalls": 8,
+    "installs": "100+",
+    "minInstalls": 100,
+    "maxInstalls": 107,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
     "histogram": {
         "1": 0,
