@@ -1,5 +1,15 @@
 [
     {
+        "id": "679ebf14-5f4b-4b49-9e29-8640cb9f913f",
+        "date": "2025-07-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "When Uploading palli thokuppu photos it always says Validation error",
+        "thumbsUp": 0,
+        "version": "0.0.50"
+    },
+    {
         "id": "783d7d95-3f45-42e5-849b-b7cec159254f",
         "date": "2025-07-03",
         "score": 4,
@@ -506,7 +516,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -516,7 +526,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {

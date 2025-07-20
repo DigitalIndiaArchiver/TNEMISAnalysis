@@ -5,7 +5,10 @@
     "summary": "Stay updated on PTA meetings, school policies, and education news.",
     "installs": "1,000+",
     "minInstalls": 1000,
-    "maxInstalls": 1813,
+    "maxInstalls": 1879,
+    "score": 0,
+    "scoreText": "0.0",
+    "ratings": 0,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
     "histogram": {
         "1": 0,
