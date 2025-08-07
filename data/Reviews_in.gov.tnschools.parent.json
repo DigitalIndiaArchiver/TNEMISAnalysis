@@ -1,5 +1,15 @@
 [
     {
+        "id": "96a96c67-4869-418c-815b-39677426f85d",
+        "date": "2025-08-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super",
+        "thumbsUp": 0,
+        "version": "0.0.51"
+    },
+    {
         "id": "8907d9e4-7594-42b8-bc06-649e4c2895da",
         "date": "2025-08-02",
         "score": 5,
@@ -36,7 +46,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -46,7 +56,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
     },
     {
@@ -86,7 +96,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 20,
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
@@ -106,7 +116,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 0,
+        "thumbsUp": 20,
         "version": "0.0.50"
     },
     {
@@ -556,7 +566,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
@@ -566,7 +576,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -656,7 +666,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -666,7 +676,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
