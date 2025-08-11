@@ -5,17 +5,17 @@
     "summary": "Official app for the teachers by State School Education Department, Tamil Nadu",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 871511,
-    "score": 4.166378,
+    "maxInstalls": 871820,
+    "score": 4.1714287,
     "scoreText": "4.2",
-    "ratings": 11553,
+    "ratings": 11559,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
     "histogram": {
         "1": 1160,
-        "2": 540,
-        "3": 900,
+        "2": 530,
+        "3": 890,
         "4": 1561,
-        "5": 7387
+        "5": 7415
     },
     "price": 0,
     "free": true,
