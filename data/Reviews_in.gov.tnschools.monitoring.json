@@ -1,5 +1,35 @@
 [
     {
+        "id": "bd4e7306-5738-4060-832b-62cd414cd2ab",
+        "date": "2025-08-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this app is not working for me occasionally strees making. kindly solve the problem",
+        "thumbsUp": 0,
+        "version": "0.5.1"
+    },
+    {
+        "id": "42c3ce65-2097-46b8-87a5-ac8d6cabc433",
+        "date": "2025-08-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent",
+        "thumbsUp": 0,
+        "version": "0.5.1"
+    },
+    {
+        "id": "2fb95665-ae4f-43c5-aad8-5d5bda35da52",
+        "date": "2025-08-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst",
+        "thumbsUp": 0,
+        "version": "0.5.1"
+    },
+    {
         "id": "c86a7a3e-afcb-4598-bab0-a119a51f325b",
         "date": "2025-08-12",
         "score": 4,
@@ -548,7 +578,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
@@ -558,7 +588,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
@@ -588,7 +618,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.4"
     },
     {
@@ -598,7 +628,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I'm using Motorola G 84 mobile. I'm unable to take photo near the entrance of the school so unable to proceed further. What to do?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.4"
     },
     {
