@@ -3,10 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Calendar events",
+                "data": "Precise location",
                 "optional": 1,
                 "purpose": "App functionality",
-                "type": "Calendar"
+                "type": "Location"
             },
             {
                 "data": "Files and docs",
@@ -27,10 +27,10 @@
                 "type": "Photos and videos"
             },
             {
-                "data": "Precise location",
+                "data": "Calendar events",
                 "optional": 1,
                 "purpose": "App functionality",
-                "type": "Location"
+                "type": "Calendar"
             }
         ],
         "securityPractices": [
