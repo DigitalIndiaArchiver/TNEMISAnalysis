@@ -76,7 +76,7 @@
         "scoreText": "1",
         "title": null,
         "text": "no opinion app not well it shows validation error",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -86,7 +86,7 @@
         "scoreText": "1",
         "title": null,
         "text": "no opinion app not well it shows validation error",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
     },
     {
@@ -666,7 +666,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -676,7 +676,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
