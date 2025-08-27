@@ -46,7 +46,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -56,7 +56,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
     },
     {
@@ -96,7 +96,17 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 10,
+        "thumbsUp": 18,
+        "version": "0.0.50"
+    },
+    {
+        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
+        "date": "2025-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This App Not working",
+        "thumbsUp": 20,
         "version": "0.0.50"
     },
     {
@@ -116,17 +126,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 18,
-        "version": "0.0.50"
-    },
-    {
-        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
-        "date": "2025-07-23",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "This App Not working",
-        "thumbsUp": 20,
+        "thumbsUp": 10,
         "version": "0.0.50"
     },
     {
@@ -566,7 +566,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -576,7 +576,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
