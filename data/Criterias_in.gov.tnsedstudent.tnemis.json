@@ -1,8 +1,8 @@
 {
+    "vaf_never_display_ease_of_use": 20,
+    "vaf_never_display_ads_experience": 20,
     "vaf_never_display_negative_ads_impact": 3,
     "vaf_never_display_spend_more_time": 2,
-    "vaf_never_display_ease_of_use": 19,
-    "vaf_never_display_ads_experience": 19,
     "vaf_never_display_make_you_happy": 2,
     "vaf_never_display_content_language": 2,
     "vaf_never_display_deceptive_ads": 4,
