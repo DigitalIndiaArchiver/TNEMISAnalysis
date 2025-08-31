@@ -1,5 +1,59 @@
 [
     {
+        "id": "e2ad8c21-f574-42a8-83af-7b8dee1687ae",
+        "date": "2025-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "validation failed. please fix it.",
+        "thumbsUp": 0,
+        "version": "0.0.52",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "9e720ac6-ad2d-492d-b51e-54d064af6f21",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good 😊",
+        "thumbsUp": 0,
+        "version": "0.0.52"
+    },
+    {
+        "id": "7a550ba0-0c83-4a96-985f-25b5c340d1eb",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "0.0.52"
+    },
+    {
+        "id": "220491f3-ac66-46fa-846b-ecff52c59be9",
+        "date": "2025-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "please try to educate parents to use the app entering into this app how password should be created many of the parents are labourers and coolies agricultural farmer ect.",
+        "thumbsUp": 0,
+        "version": "0.0.52"
+    },
+    {
+        "id": "022b7c8c-6e1b-4197-8269-beb6ed60dc99",
+        "date": "2025-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very very worst app app open agala government officer polave app work agala",
+        "thumbsUp": 0,
+        "version": "0.0.52",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
         "id": "f0402636-0adf-44ba-babc-507eef57768d",
         "date": "2025-08-28",
         "score": 1,
@@ -68,7 +122,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -78,7 +132,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
     },
     {
@@ -128,7 +182,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 20,
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
@@ -138,7 +192,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 0,
+        "thumbsUp": 20,
         "version": "0.0.50"
     },
     {
@@ -688,7 +742,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
@@ -698,7 +752,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
