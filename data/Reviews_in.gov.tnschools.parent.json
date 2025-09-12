@@ -154,7 +154,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
     },
     {
@@ -164,7 +164,7 @@
         "scoreText": "5",
         "title": null,
         "text": "I marked the attendance.But shows the app not marked attendance how to solve the problem.Many.times uninstall the app and reinstall then marked the attendance but shows \"A\" I DON'T PRESS PRESENT THE MEMBERS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -184,7 +184,7 @@
         "scoreText": "1",
         "title": null,
         "text": "no opinion app not well it shows validation error",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.51"
     },
     {
@@ -194,28 +194,8 @@
         "scoreText": "1",
         "title": null,
         "text": "no opinion app not well it shows validation error",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.51"
-    },
-    {
-        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
-        "date": "2025-07-23",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "This App Not working",
-        "thumbsUp": 10,
-        "version": "0.0.50"
-    },
-    {
-        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
-        "date": "2025-07-23",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "This App Not working",
-        "thumbsUp": 18,
-        "version": "0.0.50"
     },
     {
         "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
@@ -238,13 +218,23 @@
         "version": "0.0.50"
     },
     {
-        "id": "17d7d530-6e16-4141-afe1-fd513281ec35",
+        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
         "date": "2025-07-23",
         "score": 1,
         "scoreText": "1",
         "title": null,
-        "text": "Can't login",
-        "thumbsUp": 1,
+        "text": "This App Not working",
+        "thumbsUp": 18,
+        "version": "0.0.50"
+    },
+    {
+        "id": "fe0ee3f3-112d-491c-89e7-08c7f404251b",
+        "date": "2025-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This App Not working",
+        "thumbsUp": 10,
         "version": "0.0.50"
     },
     {
@@ -255,6 +245,16 @@
         "title": null,
         "text": "Can't login",
         "thumbsUp": 0,
+        "version": "0.0.50"
+    },
+    {
+        "id": "17d7d530-6e16-4141-afe1-fd513281ec35",
+        "date": "2025-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Can't login",
+        "thumbsUp": 1,
         "version": "0.0.50"
     },
     {
@@ -674,7 +674,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.33"
     },
     {
@@ -684,7 +684,7 @@
         "scoreText": "4",
         "title": null,
         "text": "In this app we can't mark the volunteers attendance but there is information about volunteers attendance ...",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.33"
     },
     {
@@ -774,7 +774,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
@@ -784,7 +784,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
