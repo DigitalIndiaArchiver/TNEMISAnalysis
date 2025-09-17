@@ -3,6 +3,12 @@
         "sharedData": [],
         "collectedData": [
             {
+                "data": "Files and docs",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Precise location",
                 "optional": 1,
                 "purpose": "App functionality",
@@ -25,12 +31,6 @@
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Photos and videos"
-            },
-            {
-                "data": "Files and docs",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Files and docs"
             }
         ],
         "securityPractices": [
