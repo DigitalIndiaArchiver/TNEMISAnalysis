@@ -15,56 +15,12 @@
             "free": true,
             "summary": "Your journey of simple and enjoyable self-learning begins here!<br><br>Explore Math, Physics, Chemistry, Botany, and Zoology lessons aligned with the Tamil Nadu State Board syllabus through this engaging app. The content is delivered in the form of bi-lingual animated videos (Tamil &amp; English) designed to make learning easy and enjoyable.<br><br>Understand concepts effortlessly and assess your knowledge with a quiz at the end of every video. <br><br>This app has been developed by the Tamil Nadu School Education Department as part of its digital learning initiative.<br><br>The app is now live with a rich collection of lessons, and new content is being added regularly. Stay tuned for updates as more subjects, videos, and quiz questions are continuously rolled out.",
             "scoreText": "4.4",
-            "score": 4.423453,
+            "score": 4.403279,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedstudent.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TN APPA",
-            "appId": "in.gov.tnschools.tamilpta",
-            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta",
-            "icon": "https://play-lh.googleusercontent.com/qDf_rzn0vONw-cC7EPx3Ola96L-V2_mduE-e5gGcK8QWe9148JJcrRSjNC97kuF3Mzs",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
-            "scoreText": "0.0",
-            "score": 0,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tamilpta",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TNSED Schools",
-            "appId": "in.gov.tnschools.tnemis",
-            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis",
-            "icon": "https://play-lh.googleusercontent.com/YG00E_g9ob2klVX_JgdOsuRHlbu-ellkkMmQ-48qNc6WeQz79P3ZHBVeXfu85odeUsHl",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "The app will be used by the teachers, Heads of schools, and other administrative staff to enter student, staff and school data and track the same. The app currently has modules for entering students and staff attendance, modules for screening the health of the students and referring them to the doctors, module for identifying and tracking the out of school students and module for teachers to register for teacher training.",
-            "scoreText": "4.2",
-            "score": 4.1701207,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tnemis",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
@@ -90,6 +46,50 @@
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
+            "title": "TNSED Schools",
+            "appId": "in.gov.tnschools.tnemis",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis",
+            "icon": "https://play-lh.googleusercontent.com/YG00E_g9ob2klVX_JgdOsuRHlbu-ellkkMmQ-48qNc6WeQz79P3ZHBVeXfu85odeUsHl",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The app will be used by the teachers, Heads of schools, and other administrative staff to enter student, staff and school data and track the same. The app currently has modules for entering students and staff attendance, modules for screening the health of the students and referring them to the doctors, module for identifying and tracking the out of school students and module for teachers to register for teacher training.",
+            "scoreText": "4.2",
+            "score": 4.170837,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tnemis",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "TN APPA",
+            "appId": "in.gov.tnschools.tamilpta",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta",
+            "icon": "https://play-lh.googleusercontent.com/qDf_rzn0vONw-cC7EPx3Ola96L-V2_mduE-e5gGcK8QWe9148JJcrRSjNC97kuF3Mzs",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
+            "scoreText": "0.0",
+            "score": 0,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tamilpta",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
             "title": "Illam Thedi Kalvi",
             "appId": "in.gov.tnschools.itk",
             "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk",
@@ -103,7 +103,7 @@
             "free": true,
             "summary": "\u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b92\u0bb0\u0bc1 \u0ba4\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd\u0bb5 \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1. \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc8 \u0baa\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0bb5\u0bc6\u0bb3\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bb0\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.<br><br><br><br>ILLAM THEDI KALVI is a volunteering initiative. In order to cater to the needs of the learning gap caused because of lockdowns due to the COVID outbreak, this initiative is being carried out by the School Education Department, Government of Tamil Nadu. All the volunteers can make use of the mobile application to access the features available for all the volunteers.",
             "scoreText": "4.3",
-            "score": 4.2950683,
+            "score": 4.2965164,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.itk",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/similar",
