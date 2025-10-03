@@ -1,5 +1,37 @@
 [
     {
+        "id": "f480c71f-d1fa-4d2b-aef5-f3022a204a38",
+        "date": "2025-10-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "lot of bugs...you can't even login properly. I don't know which idiot designed this app in such a way that if you login it redirects to watch a movie.",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "a3837b3a-8510-4f33-ba37-727f8420ac56",
+        "date": "2025-10-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Everytime logout, it doesn't save the entered information properly",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "5ff3b0a0-a51b-41b2-baaf-93dae70fcc87",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It is an useful application to enter the marks Thankyou Tamilnadu.",
+        "thumbsUp": 0,
+        "version": "0.3.4",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
         "id": "14007a20-d9fb-466f-a34d-4c7269e6a45f",
         "date": "2025-09-30",
         "score": 1,
@@ -307,7 +339,7 @@
         "scoreText": "1",
         "title": null,
         "text": "i can't input my transfer application. so i uninstalled and reinsatalled the app. but the app gone previous year update... still now i trying to get the atest version for applying the transfer. but i can't get. who is the responsible for the app failure?",
-        "thumbsUp": 19,
+        "thumbsUp": 18,
         "version": "0.3.1"
     },
     {
@@ -317,7 +349,7 @@
         "scoreText": "1",
         "title": null,
         "text": "i can't input my transfer application. so i uninstalled and reinsatalled the app. but the app gone previous year update... still now i trying to get the atest version for applying the transfer. but i can't get. who is the responsible for the app failure?",
-        "thumbsUp": 18,
+        "thumbsUp": 19,
         "version": "0.3.1"
     },
     {
@@ -890,7 +922,17 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 5,
+        "thumbsUp": 4,
+        "version": "0.2.6"
+    },
+    {
+        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
+        "date": "2024-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It very useful to evaluated individual student.",
+        "thumbsUp": 0,
         "version": "0.2.6"
     },
     {
@@ -910,17 +952,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 4,
-        "version": "0.2.6"
-    },
-    {
-        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
-        "date": "2024-12-06",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 0,
+        "thumbsUp": 5,
         "version": "0.2.6"
     },
     {
@@ -1111,7 +1143,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.2.3"
     },
     {
@@ -1121,7 +1153,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.2.3"
     },
     {
@@ -1353,7 +1385,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 3,
+        "thumbsUp": 2,
         "version": "0.2.1"
     },
     {
@@ -1363,7 +1395,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 2,
+        "thumbsUp": 3,
         "version": "0.2.1"
     },
     {
@@ -1383,6 +1415,16 @@
         "scoreText": "4",
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
+        "thumbsUp": 4,
+        "version": "0.1.9"
+    },
+    {
+        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "date": "2024-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 2,
         "version": "0.1.9"
     },
@@ -1394,16 +1436,6 @@
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 3,
-        "version": "0.1.9"
-    },
-    {
-        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
-        "date": "2024-10-14",
-        "score": 4,
-        "scoreText": "4",
-        "title": null,
-        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 4,
         "version": "0.1.9"
     },
     {
@@ -2185,7 +2217,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 4,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -2195,7 +2227,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 0,
+        "thumbsUp": 4,
         "version": "0.1.3"
     },
     {
@@ -2225,7 +2257,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.6"
     },
     {
@@ -2235,7 +2267,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.6"
     },
     {
@@ -2285,7 +2317,27 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 15,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 21,
+        "version": "0.1.5"
+    },
+    {
+        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
+        "date": "2024-07-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
+        "thumbsUp": 11,
         "version": "0.1.5"
     },
     {
@@ -2306,26 +2358,6 @@
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
         "thumbsUp": 0,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 15,
-        "version": "0.1.5"
-    },
-    {
-        "id": "a9d8656f-e4ec-4941-bd6f-4b6f960d36f3",
-        "date": "2024-07-01",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 11,
         "version": "0.1.5"
     },
     {
@@ -2482,6 +2514,19 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 16,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 18,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
@@ -2496,19 +2541,6 @@
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 0,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 16,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -2581,6 +2613,26 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 0,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 16,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 25,
         "version": "0.1.3"
     },
@@ -2601,26 +2653,6 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 18,
         "version": "0.1.3"
     },
@@ -2631,7 +2663,7 @@
         "scoreText": "1",
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2641,7 +2673,7 @@
         "scoreText": "1",
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {

@@ -21,16 +21,16 @@
                 "type": "Photos and videos"
             },
             {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Location"
-            },
-            {
                 "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Location"
             }
         ],
         "securityPractices": [

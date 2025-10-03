@@ -1,10 +1,11 @@
 {
+    "vaf_never_display_visually_good": 22,
+    "vaf_never_display_disruptive_ads": 9,
+    "vaf_never_display_make_you_happy": 14,
     "vaf_never_display_ease_of_use": 107,
     "vaf_never_display_ads_experience": 97,
     "vaf_never_display_easy_to_use": 15,
     "vaf_never_display_considerate_of_time": 12,
-    "vaf_never_display_make_you_happy": 13,
-    "vaf_never_display_visually_good": 21,
     "vaf_never_display_positive_impact": 11,
     "vaf_never_display_visually_bad": 19,
     "vaf_never_display_deceptive_ads": 11,
@@ -14,7 +15,6 @@
     "vaf_never_display_app_description": 20,
     "vaf_never_display_inappropriate_ads": 10,
     "vaf_never_display_content_language": 16,
-    "vaf_never_display_disruptive_ads": 8,
     "vaf_never_display_meet_expectations": 9,
     "vaf_never_display_useful_notifications": 10
 }

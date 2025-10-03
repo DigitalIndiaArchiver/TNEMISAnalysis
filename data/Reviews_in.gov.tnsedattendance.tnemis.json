@@ -1,5 +1,18 @@
 [
     {
+        "id": "0e0f303c-ff9b-4e0c-9f8a-11e50b2bc3f6",
+        "date": "2025-10-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "whenever new version launched it takes time to retrieve",
+        "thumbsUp": 0,
+        "version": "8.0",
+        "vaf_never_display_visually_good": 1,
+        "vaf_never_display_disruptive_ads": 2,
+        "vaf_never_display_make_you_happy": 3
+    },
+    {
         "id": "7e5db054-1f20-456f-beed-b42229fa993c",
         "date": "2025-09-30",
         "score": 5,
@@ -286,7 +299,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -296,7 +309,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "8.0"
     },
     {
