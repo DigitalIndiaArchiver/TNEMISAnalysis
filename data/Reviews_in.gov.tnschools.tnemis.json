@@ -1,5 +1,38 @@
 [
     {
+        "id": "f56d87b1-5f2e-4a87-93f1-a4bee8adde37",
+        "date": "2025-10-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it contains full of bug",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
+        "id": "cfe5aa64-c50a-4ac9-8770-cae433a7d6ca",
+        "date": "2025-10-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent",
+        "thumbsUp": 0,
+        "version": "0.3.4"
+    },
+    {
+        "id": "0950229e-44b6-400f-8e2e-0e547d26240d",
+        "date": "2025-10-02",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "From yesterday 01/10/2025 onwards unable to open the app to input summative data. kindly solve the Bug fixes.",
+        "thumbsUp": 0,
+        "version": "0.3.4",
+        "vaf_never_display_meet_expectations": 3,
+        "vaf_never_display_app_description": 3,
+        "vaf_never_display_easy_to_use": 1
+    },
+    {
         "id": "f480c71f-d1fa-4d2b-aef5-f3022a204a38",
         "date": "2025-10-01",
         "score": 1,
@@ -922,6 +955,16 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
+        "thumbsUp": 3,
+        "version": "0.2.6"
+    },
+    {
+        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
+        "date": "2024-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It very useful to evaluated individual student.",
         "thumbsUp": 4,
         "version": "0.2.6"
     },
@@ -933,16 +976,6 @@
         "title": null,
         "text": "It very useful to evaluated individual student.",
         "thumbsUp": 0,
-        "version": "0.2.6"
-    },
-    {
-        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
-        "date": "2024-12-06",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 3,
         "version": "0.2.6"
     },
     {
@@ -1133,16 +1166,6 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 1,
-        "version": "0.2.3"
-    },
-    {
-        "id": "faae827a-1020-44b9-a973-85e0f5dadec4",
-        "date": "2024-11-07",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "OTP option is not visible",
         "thumbsUp": 0,
         "version": "0.2.3"
     },
@@ -1154,6 +1177,16 @@
         "title": null,
         "text": "OTP option is not visible",
         "thumbsUp": 2,
+        "version": "0.2.3"
+    },
+    {
+        "id": "faae827a-1020-44b9-a973-85e0f5dadec4",
+        "date": "2024-11-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "OTP option is not visible",
+        "thumbsUp": 1,
         "version": "0.2.3"
     },
     {
@@ -1375,16 +1408,6 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 1,
-        "version": "0.2.1"
-    },
-    {
-        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
-        "date": "2024-10-14",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Fast and good but not update tnsed school app new version",
         "thumbsUp": 2,
         "version": "0.2.1"
     },
@@ -1409,14 +1432,14 @@
         "version": "0.2.1"
     },
     {
-        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
         "date": "2024-10-14",
-        "score": 4,
-        "scoreText": "4",
+        "score": 5,
+        "scoreText": "5",
         "title": null,
-        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 4,
-        "version": "0.1.9"
+        "text": "Fast and good but not update tnsed school app new version",
+        "thumbsUp": 1,
+        "version": "0.2.1"
     },
     {
         "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
@@ -1436,6 +1459,16 @@
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 3,
+        "version": "0.1.9"
+    },
+    {
+        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "date": "2024-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
+        "thumbsUp": 4,
         "version": "0.1.9"
     },
     {
@@ -2207,7 +2240,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 1,
+        "thumbsUp": 4,
         "version": "0.1.3"
     },
     {
@@ -2227,7 +2260,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 4,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2257,7 +2290,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.6"
     },
     {
@@ -2267,7 +2300,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This apps does not enable me to enter in the scheme (bus pass module ) .please correct the problem as soon as possible 🙏🏻",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.6"
     },
     {
@@ -2488,19 +2521,6 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 5,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 12,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
@@ -2514,7 +2534,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 16,
+        "thumbsUp": 5,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -2528,6 +2548,19 @@
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
         "thumbsUp": 18,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 16,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -2613,27 +2646,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 0,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
         "thumbsUp": 16,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 25,
         "version": "0.1.3"
     },
     {
@@ -2657,13 +2670,23 @@
         "version": "0.1.3"
     },
     {
-        "id": "9c5ee06e-d87a-4ab9-99ff-b1651e491ba8",
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
         "date": "2024-06-28",
         "score": 1,
         "scoreText": "1",
         "title": null,
-        "text": "In my mobile library option not shown can u solve this I tried many times",
-        "thumbsUp": 1,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 25,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -2674,6 +2697,16 @@
         "title": null,
         "text": "In my mobile library option not shown can u solve this I tried many times",
         "thumbsUp": 0,
+        "version": "0.1.3"
+    },
+    {
+        "id": "9c5ee06e-d87a-4ab9-99ff-b1651e491ba8",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "In my mobile library option not shown can u solve this I tried many times",
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2713,7 +2746,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -2723,7 +2756,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2896,7 +2929,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "0.1.1"
     },
     {
@@ -2906,7 +2939,7 @@
         "scoreText": "5",
         "title": null,
         "text": "please add edit option in NILP details",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "0.1.1"
     },
     {
