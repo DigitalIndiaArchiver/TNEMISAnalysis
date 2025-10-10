@@ -15,16 +15,16 @@
                 "type": "Photos and videos"
             },
             {
-                "data": "Calendar events",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Calendar"
-            },
-            {
                 "data": "Precise location",
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Location"
+            },
+            {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Calendar"
             },
             {
                 "data": "Files and docs",
