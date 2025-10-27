@@ -950,7 +950,7 @@
         "scoreText": "1",
         "title": null,
         "text": "If compare to android phone this iPhone is very poor service",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.2.5"
     },
     {
@@ -960,7 +960,7 @@
         "scoreText": "1",
         "title": null,
         "text": "If compare to android phone this iPhone is very poor service",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.2.5"
     },
     {
@@ -1010,17 +1010,7 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 3,
-        "version": "0.2.6"
-    },
-    {
-        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
-        "date": "2024-12-06",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 5,
+        "thumbsUp": 0,
         "version": "0.2.6"
     },
     {
@@ -1040,7 +1030,17 @@
         "scoreText": "5",
         "title": null,
         "text": "It very useful to evaluated individual student.",
-        "thumbsUp": 0,
+        "thumbsUp": 3,
+        "version": "0.2.6"
+    },
+    {
+        "id": "cd5c2b05-9a46-495a-a66f-8985c18c5a68",
+        "date": "2024-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It very useful to evaluated individual student.",
+        "thumbsUp": 5,
         "version": "0.2.6"
     },
     {
@@ -1231,7 +1231,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "0.2.3"
     },
     {
@@ -1241,7 +1241,7 @@
         "scoreText": "5",
         "title": null,
         "text": "OTP option is not visible",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "0.2.3"
     },
     {
@@ -1463,27 +1463,17 @@
         "scoreText": "5",
         "title": null,
         "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 0,
-        "version": "0.2.1"
-    },
-    {
-        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
-        "date": "2024-10-14",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Fast and good but not update tnsed school app new version",
-        "thumbsUp": 1,
-        "version": "0.2.1"
-    },
-    {
-        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
-        "date": "2024-10-14",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "Fast and good but not update tnsed school app new version",
         "thumbsUp": 3,
+        "version": "0.2.1"
+    },
+    {
+        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fast and good but not update tnsed school app new version",
+        "thumbsUp": 0,
         "version": "0.2.1"
     },
     {
@@ -1497,14 +1487,14 @@
         "version": "0.2.1"
     },
     {
-        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "id": "9d81ed13-5c77-4404-9a04-d1427c301716",
         "date": "2024-10-14",
-        "score": 4,
-        "scoreText": "4",
+        "score": 5,
+        "scoreText": "5",
         "title": null,
-        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
-        "thumbsUp": 3,
-        "version": "0.1.9"
+        "text": "Fast and good but not update tnsed school app new version",
+        "thumbsUp": 1,
+        "version": "0.2.1"
     },
     {
         "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
@@ -1524,6 +1514,16 @@
         "title": null,
         "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
         "thumbsUp": 2,
+        "version": "0.1.9"
+    },
+    {
+        "id": "8d18c9f3-fd84-4e1f-8ba3-a223e473adee",
+        "date": "2024-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Not opening (particularly bus route number in bus pass section, schemes) . Mobile phone model is realme x2",
+        "thumbsUp": 3,
         "version": "0.1.9"
     },
     {
@@ -1753,7 +1753,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "0.2.0"
     },
     {
@@ -1763,7 +1763,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nowdays it's very easy and server is speed",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "0.2.0"
     },
     {
@@ -2295,16 +2295,6 @@
         "scoreText": "1",
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
-        "thumbsUp": 1,
-        "version": "0.1.3"
-    },
-    {
-        "id": "6e2d0f99-eb26-4971-9013-b64e2a8c711e",
-        "date": "2024-07-04",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
         "thumbsUp": 0,
         "version": "0.1.3"
     },
@@ -2316,6 +2306,16 @@
         "title": null,
         "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
         "thumbsUp": 4,
+        "version": "0.1.3"
+    },
+    {
+        "id": "6e2d0f99-eb26-4971-9013-b64e2a8c711e",
+        "date": "2024-07-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This application performance is very slow and poor. Tried to upload a file but it's taking more time to upload and we need to refresh the whole application to see the changing. Entire application has refresh issue. We need edit option to edit the uploaded file. In my case I uploaded a wrong file and I don't have an option to edit that file. Please fix these issues ASAP or the updation process will be really slow from school end.",
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2405,7 +2405,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 23,
+        "thumbsUp": 15,
         "version": "0.1.5"
     },
     {
@@ -2415,7 +2415,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 0,
+        "thumbsUp": 21,
         "version": "0.1.5"
     },
     {
@@ -2435,7 +2435,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 15,
+        "thumbsUp": 23,
         "version": "0.1.5"
     },
     {
@@ -2445,7 +2445,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This updation of Buspass module changes is very difficult to handle. Previous version is very comfortable. Because, Already We taken students Photos for ready to submit in this App with perfectly Cropped and Resized. But, After, Updation version asked Direct camera photos. This is sometimes increased size of Photos. Please give both (File choose & Direct Camera) ways of uploading options. Please rectify this problem sir/ Madam. Thank you..",
-        "thumbsUp": 21,
+        "thumbsUp": 0,
         "version": "0.1.5"
     },
     {
@@ -2576,33 +2576,7 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 5,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 0,
-        "version": "0.1.4",
-        "vaf_never_display_deceptive_ads": 3,
-        "vaf_never_display_make_you_happy": 1,
-        "vaf_never_display_visually_bad": 3
-    },
-    {
-        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
-        "date": "2024-06-30",
-        "score": 5,
-        "scoreText": "5",
-        "title": null,
-        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 18,
+        "thumbsUp": 12,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -2628,7 +2602,33 @@
         "scoreText": "5",
         "title": null,
         "text": "New version not opened. The screen displays fully white . I am so disappointed.",
-        "thumbsUp": 12,
+        "thumbsUp": 18,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 5,
+        "version": "0.1.4",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_visually_bad": 3
+    },
+    {
+        "id": "3fcc1f44-440a-4d1e-839e-cf92da384af6",
+        "date": "2024-06-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "New version not opened. The screen displays fully white . I am so disappointed.",
+        "thumbsUp": 0,
         "version": "0.1.4",
         "vaf_never_display_deceptive_ads": 3,
         "vaf_never_display_make_you_happy": 1,
@@ -2701,17 +2701,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 16,
-        "version": "0.1.3"
-    },
-    {
-        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
-        "date": "2024-06-28",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 18,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
@@ -2731,7 +2721,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 0,
+        "thumbsUp": 25,
         "version": "0.1.3"
     },
     {
@@ -2741,7 +2731,17 @@
         "scoreText": "1",
         "title": null,
         "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
-        "thumbsUp": 25,
+        "thumbsUp": 18,
+        "version": "0.1.3"
+    },
+    {
+        "id": "d7605015-4161-4917-b593-7bad840ad1cd",
+        "date": "2024-06-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Educational department can't even develop a good app. App often crashes like our school system. Doesn't work probably.",
+        "thumbsUp": 16,
         "version": "0.1.3"
     },
     {
@@ -2801,7 +2801,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.3"
     },
     {
@@ -2811,7 +2811,7 @@
         "scoreText": "1",
         "title": null,
         "text": "The world worst app forever, this is a business app for private corporate. This is not a smart work it is a burden for teachers to teach. Everyday update for the company earning money.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.3"
     },
     {
