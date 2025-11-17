@@ -6,16 +6,16 @@
     "installs": "1,000+",
     "minInstalls": 1000,
     "maxInstalls": 3233,
-    "score": 4.6,
-    "scoreText": "4.6",
-    "ratings": 5,
+    "score": 4.6666665,
+    "scoreText": "4.7",
+    "ratings": 6,
     "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
     "histogram": {
         "1": 0,
         "2": 0,
         "3": 1,
         "4": 0,
-        "5": 4
+        "5": 5
     },
     "price": 0,
     "free": true,
