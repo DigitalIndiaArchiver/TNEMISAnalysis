@@ -6,7 +6,7 @@
         "scoreText": "1",
         "title": null,
         "text": "app open agala but advertisement only watts app link 😞",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.54",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -18,7 +18,7 @@
         "scoreText": "1",
         "title": null,
         "text": "app open agala but advertisement only watts app link 😞",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.54",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -134,7 +134,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very very worst app app open agala government officer polave app work agala",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.52",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -146,7 +146,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very very worst app app open agala government officer polave app work agala",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.52",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -280,7 +280,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 20,
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
@@ -300,17 +300,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 0,
-        "version": "0.0.50"
-    },
-    {
-        "id": "17d7d530-6e16-4141-afe1-fd513281ec35",
-        "date": "2025-07-23",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Can't login",
-        "thumbsUp": 0,
+        "thumbsUp": 20,
         "version": "0.0.50"
     },
     {
@@ -321,6 +311,16 @@
         "title": null,
         "text": "Can't login",
         "thumbsUp": 1,
+        "version": "0.0.50"
+    },
+    {
+        "id": "17d7d530-6e16-4141-afe1-fd513281ec35",
+        "date": "2025-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Can't login",
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
