@@ -108,6 +108,16 @@
         "scoreText": "1",
         "title": null,
         "text": "this app is not working for me occasionally strees making. kindly solve the problem",
+        "thumbsUp": 2,
+        "version": "0.5.1"
+    },
+    {
+        "id": "bd4e7306-5738-4060-832b-62cd414cd2ab",
+        "date": "2025-08-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this app is not working for me occasionally strees making. kindly solve the problem",
         "thumbsUp": 4,
         "version": "0.5.1"
     },
@@ -119,16 +129,6 @@
         "title": null,
         "text": "this app is not working for me occasionally strees making. kindly solve the problem",
         "thumbsUp": 0,
-        "version": "0.5.1"
-    },
-    {
-        "id": "bd4e7306-5738-4060-832b-62cd414cd2ab",
-        "date": "2025-08-13",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "this app is not working for me occasionally strees making. kindly solve the problem",
-        "thumbsUp": 2,
         "version": "0.5.1"
     },
     {
@@ -478,7 +478,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -488,7 +488,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -498,7 +498,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
@@ -508,7 +508,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -700,7 +700,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.11"
     },
     {
@@ -710,7 +710,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Kindly prepare the app for ios",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.11"
     },
     {
