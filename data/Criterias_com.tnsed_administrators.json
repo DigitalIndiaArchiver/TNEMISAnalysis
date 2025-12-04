@@ -1,4 +1,7 @@
 {
+    "vaf_never_display_visually_good": 1,
+    "vaf_never_display_app_description": 1,
+    "vaf_never_display_useful_notifications": 1,
     "vaf_never_display_spend_more_time": 1,
     "vaf_never_display_easy_to_use": 1,
     "vaf_never_display_disruptive_ads": 1
