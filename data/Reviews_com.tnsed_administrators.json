@@ -1,5 +1,25 @@
 [
     {
+        "id": "803c68f4-4329-4147-a189-c807c1f54427",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app is not opening.. why",
+        "thumbsUp": 0,
+        "version": "3.8"
+    },
+    {
+        "id": "3291cfce-73d8-4680-8aae-2f9acffe925d",
+        "date": "2025-12-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I'm using Vivo Y39 5G mobile. Sometimes App is not opening at all. Tried to reinstall and open. But in vain.",
+        "thumbsUp": 0,
+        "version": null
+    },
+    {
         "id": "e7422e41-1b48-496f-a7b2-a7e28aeb3404",
         "date": "2025-12-09",
         "score": 1,
@@ -146,6 +166,16 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
+        "thumbsUp": 6,
+        "version": "3.8"
+    },
+    {
+        "id": "14da35bd-a67c-474f-b5c6-7c5594b584e4",
+        "date": "2025-12-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I use samsung s20fe this app doesn't working properly",
         "thumbsUp": 5,
         "version": "3.8"
     },
@@ -186,7 +216,7 @@
         "scoreText": "4",
         "title": null,
         "text": "good... is it possible to bring the students attendance details from the attendance app?",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.8"
     },
     {
@@ -196,7 +226,7 @@
         "scoreText": "4",
         "title": null,
         "text": "good... is it possible to bring the students attendance details from the attendance app?",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.8"
     },
     {
@@ -252,7 +282,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
@@ -265,7 +295,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
