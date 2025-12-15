@@ -1,5 +1,18 @@
 [
     {
+        "id": "d27a695f-c14d-4173-997b-d63cc70858ed",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "3.8",
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_app_description": 1
+    },
+    {
         "id": "0989bf5d-1404-44ab-9fd8-6e4d0cff742e",
         "date": "2025-12-11",
         "score": 5,
@@ -176,17 +189,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 6,
-        "version": "3.8"
-    },
-    {
-        "id": "14da35bd-a67c-474f-b5c6-7c5594b584e4",
-        "date": "2025-12-08",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 5,
+        "thumbsUp": 2,
         "version": "3.8"
     },
     {
@@ -206,7 +209,17 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 2,
+        "thumbsUp": 5,
+        "version": "3.8"
+    },
+    {
+        "id": "14da35bd-a67c-474f-b5c6-7c5594b584e4",
+        "date": "2025-12-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I use samsung s20fe this app doesn't working properly",
+        "thumbsUp": 6,
         "version": "3.8"
     },
     {
@@ -256,7 +269,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
@@ -269,7 +282,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
