@@ -1,7 +1,8 @@
 {
+    "vaf_never_display_content_language": 8,
+    "vaf_never_display_difficult_to_use": 15,
+    "vaf_never_display_considerate_of_time": 6,
     "vaf_never_display_spend_more_time": 7,
-    "vaf_never_display_difficult_to_use": 14,
-    "vaf_never_display_content_language": 7,
     "vaf_never_display_ads_experience": 50,
     "vaf_never_display_ease_of_use": 55,
     "vaf_never_display_deceptive_ads": 7,
@@ -15,6 +16,5 @@
     "vaf_never_display_easy_to_use": 5,
     "vaf_never_display_make_you_happy": 7,
     "vaf_never_display_negative_ads_impact": 6,
-    "vaf_never_display_considerate_of_time": 5,
     "vaf_never_display_useful_notifications": 5
 }
