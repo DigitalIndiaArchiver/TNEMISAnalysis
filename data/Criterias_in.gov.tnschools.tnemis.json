@@ -1,9 +1,11 @@
 {
-    "vaf_never_display_visually_good": 137,
+    "vaf_never_display_positive_impact": 58,
+    "vaf_never_display_visually_good": 138,
+    "vaf_never_display_content_language": 163,
+    "vaf_never_display_ease_of_use": 595,
+    "vaf_never_display_ads_experience": 563,
     "vaf_never_display_difficult_to_use": 95,
     "vaf_never_display_deceptive_ads": 76,
-    "vaf_never_display_ease_of_use": 594,
-    "vaf_never_display_ads_experience": 562,
     "vaf_never_display_easy_to_use": 133,
     "vaf_never_display_spend_more_time": 60,
     "vaf_never_display_meet_expectations": 70,
@@ -14,7 +16,5 @@
     "vaf_never_display_visually_bad": 105,
     "vaf_never_display_negative_ads_impact": 72,
     "vaf_never_display_considerate_of_time": 61,
-    "vaf_never_display_content_language": 162,
-    "vaf_never_display_positive_impact": 57,
     "vaf_never_display_inappropriate_ads": 64
 }
