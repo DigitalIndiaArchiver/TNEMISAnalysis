@@ -1,5 +1,15 @@
 [
     {
+        "id": "af058a7c-ab24-4fad-8aaf-4ec620613821",
+        "date": "2025-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "0.5.6"
+    },
+    {
         "id": "66e13d33-7459-460c-ac82-c34d99bae25c",
         "date": "2025-11-06",
         "score": 5,
@@ -478,7 +488,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.1.4"
     },
     {
@@ -488,7 +498,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This app is not working in iOS software. Iam using IPhone 15 , can’t able to install this app . Please update for iOS",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.1.4"
     },
     {
@@ -498,7 +508,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -508,7 +518,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
