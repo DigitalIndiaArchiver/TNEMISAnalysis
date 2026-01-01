@@ -1,5 +1,15 @@
 [
     {
+        "id": "5585bb4c-7426-48a6-93ea-588200902422",
+        "date": "2025-12-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "doesn't open",
+        "thumbsUp": 0,
+        "version": "4.1"
+    },
+    {
         "id": "4c2d6ef9-714d-429b-bd79-c9cec1bbe0ec",
         "date": "2025-12-27",
         "score": 1,
@@ -252,7 +262,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 2,
+        "thumbsUp": 7,
         "version": "3.8"
     },
     {
@@ -262,7 +272,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 7,
+        "thumbsUp": 2,
         "version": "3.8"
     },
     {
@@ -272,7 +282,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Not working",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
@@ -282,7 +292,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Not working",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
@@ -312,7 +322,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
@@ -325,7 +335,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
