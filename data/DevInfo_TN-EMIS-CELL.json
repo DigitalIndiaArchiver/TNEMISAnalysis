@@ -15,7 +15,7 @@
             "free": true,
             "summary": "Your journey of simple and enjoyable self-learning begins here!<br><br>Explore Math, Physics, Chemistry, Botany, and Zoology lessons aligned with the Tamil Nadu State Board syllabus through this engaging app. The content is delivered in the form of bi-lingual animated videos (Tamil &amp; English) designed to make learning easy and enjoyable.<br><br>Understand concepts effortlessly and assess your knowledge with a quiz at the end of every video. <br><br>This app has been developed by the Tamil Nadu School Education Department as part of its digital learning initiative.<br><br>The app is now live with a rich collection of lessons, and new content is being added regularly. Stay tuned for updates as more subjects, videos, and quiz questions are continuously rolled out.",
             "scoreText": "4.3",
-            "score": 4.334066,
+            "score": 4.3116593,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedstudent.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/similar",
@@ -59,7 +59,7 @@
             "free": true,
             "summary": "The app will be used by the teachers, Heads of schools, and other administrative staff to enter student, staff and school data and track the same. The app currently has modules for entering students and staff attendance, modules for screening the health of the students and referring them to the doctors, module for identifying and tracking the out of school students and module for teachers to register for teacher training.",
             "scoreText": "4.1",
-            "score": 4.1427345,
+            "score": 4.14494,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/similar",
@@ -90,28 +90,6 @@
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
-            "title": "TNSED Administrators",
-            "appId": "in.gov.tnschools.monitoring",
-            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring",
-            "icon": "https://play-lh.googleusercontent.com/biUWmLISRcRo-oQTBPJTSzomb_nqh_FwN5vHzfPLRKAc3w4bUkVAWxoeHhlihpZBQAU",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "The EMIS monitoring app is developed by TN EMIS for the purpose of carrying out various inspections and monitoring activities by all officials of the School Education Department. Various components such as Classroom observation, Civil inspection, KGBV etc will be carried out using the app. Basic data reporting will also be available through the app for adminstrative officers.",
-            "scoreText": "3.8",
-            "score": 3.82,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.monitoring",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
             "title": "TN APPA",
             "appId": "in.gov.tnschools.tamilpta",
             "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta",
@@ -134,6 +112,50 @@
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
+            "title": "TNSED Administrators",
+            "appId": "in.gov.tnschools.monitoring",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring",
+            "icon": "https://play-lh.googleusercontent.com/biUWmLISRcRo-oQTBPJTSzomb_nqh_FwN5vHzfPLRKAc3w4bUkVAWxoeHhlihpZBQAU",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The EMIS monitoring app is developed by TN EMIS for the purpose of carrying out various inspections and monitoring activities by all officials of the School Education Department. Various components such as Classroom observation, Civil inspection, KGBV etc will be carried out using the app. Basic data reporting will also be available through the app for adminstrative officers.",
+            "scoreText": "3.8",
+            "score": 3.82,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.monitoring",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
+            "title": "TNSED Admins",
+            "appId": "com.tnsed_administrators",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators",
+            "icon": "https://play-lh.googleusercontent.com/6M06UenkUoSWAOGsYxQLDuzZirh1YTUYfIdL7n08sotb-wJtXcJaohFdvLDuknTuuME",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "The TNSED Admins app is developed by TN EMIS for the purpose of carrying out School inspections and monitoring activities by all officials of the School Education Department. Basic data reporting will also be available through the app for adminstrative officers.",
+            "scoreText": "3.5",
+            "score": 3.54,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.tnsed_administrators",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
             "title": "TNSED Parents",
             "appId": "in.gov.tnschools.parent",
             "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent",
@@ -153,28 +175,6 @@
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TNSED Admins",
-            "appId": "com.tnsed_administrators",
-            "url": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators",
-            "icon": "https://play-lh.googleusercontent.com/6M06UenkUoSWAOGsYxQLDuzZirh1YTUYfIdL7n08sotb-wJtXcJaohFdvLDuknTuuME",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "The TNSED Admins app is developed by TN EMIS for the purpose of carrying out School inspections and monitoring activities by all officials of the School Education Department. Basic data reporting will also be available through the app for adminstrative officers.",
-            "scoreText": "3.6",
-            "score": 3.56,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.tnsed_administrators",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         }
     ]
