@@ -27,7 +27,7 @@
         "scoreText": "1",
         "title": null,
         "text": "app open agala but advertisement only watts app link 😞",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.54",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -39,7 +39,7 @@
         "scoreText": "1",
         "title": null,
         "text": "app open agala but advertisement only watts app link 😞",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.54",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
@@ -291,7 +291,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 0,
+        "thumbsUp": 10,
         "version": "0.0.50"
     },
     {
@@ -301,7 +301,7 @@
         "scoreText": "1",
         "title": null,
         "text": "This App Not working",
-        "thumbsUp": 10,
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
@@ -331,7 +331,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Can't login",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.50"
     },
     {
@@ -341,7 +341,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Can't login",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.50"
     },
     {
@@ -861,7 +861,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.0.30"
     },
     {
@@ -871,7 +871,7 @@
         "scoreText": "1",
         "title": null,
         "text": "It's not showing the SMC Reconstitution awareness meeting attendance option. Today (02.08.2024) is the meeting. Please fix it asap.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.0.30"
     },
     {
