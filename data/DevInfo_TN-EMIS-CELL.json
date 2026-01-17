@@ -15,7 +15,7 @@
             "free": true,
             "summary": "Your journey of simple and enjoyable self-learning begins here!<br><br>Explore Math, Physics, Chemistry, Botany, and Zoology lessons aligned with the Tamil Nadu State Board syllabus through this engaging app. The content is delivered in the form of bi-lingual animated videos (Tamil &amp; English) designed to make learning easy and enjoyable.<br><br>Understand concepts effortlessly and assess your knowledge with a quiz at the end of every video. <br><br>This app has been developed by the Tamil Nadu School Education Department as part of its digital learning initiative.<br><br>The app is now live with a rich collection of lessons, and new content is being added regularly. Stay tuned for updates as more subjects, videos, and quiz questions are continuously rolled out.",
             "scoreText": "4.3",
-            "score": 4.2766886,
+            "score": 4.285398,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedstudent.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/similar",
@@ -90,6 +90,28 @@
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
+            "title": "TN APPA",
+            "appId": "in.gov.tnschools.tamilpta",
+            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta",
+            "icon": "https://play-lh.googleusercontent.com/qDf_rzn0vONw-cC7EPx3Ola96L-V2_mduE-e5gGcK8QWe9148JJcrRSjNC97kuF3Mzs",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
+            "scoreText": "0.0",
+            "score": 0,
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tamilpta",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
             "title": "TNSED Administrators",
             "appId": "in.gov.tnschools.monitoring",
             "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring",
@@ -131,28 +153,6 @@
             "similar": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TN APPA",
-            "appId": "in.gov.tnschools.tamilpta",
-            "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta",
-            "icon": "https://play-lh.googleusercontent.com/qDf_rzn0vONw-cC7EPx3Ola96L-V2_mduE-e5gGcK8QWe9148JJcrRSjNC97kuF3Mzs",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "TN APPA(Tamilnadu Anaithu Palli Parent-Teachers Association) is the official mobile application for the Tamil Nadu State Parents Teachers Association (PTA), designed to improve communication between parents, teachers, and school administration. This platform serves as a centralized hub for sharing important updates related to Parent-Teacher Associations, school announcements, and government educational policies",
-            "scoreText": "0.0",
-            "score": 0,
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnschools.tamilpta",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tamilpta/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
