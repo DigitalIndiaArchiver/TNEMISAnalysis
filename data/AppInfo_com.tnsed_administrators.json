@@ -8,10 +8,10 @@
     "maxInstalls": 17288,
     "score": 3.52,
     "scoreText": "3.5",
-    "ratings": 103,
+    "ratings": 104,
     "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
     "histogram": {
-        "1": 27,
+        "1": 28,
         "2": 5,
         "3": 6,
         "4": 13,
