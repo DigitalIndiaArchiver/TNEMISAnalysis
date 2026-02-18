@@ -10,6 +10,16 @@
         "version": "0.5.9"
     },
     {
+        "id": "376da1b2-38be-454d-a38e-d10d6aa7a4b5",
+        "date": "2026-02-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Iam senior lecturer, DIET, I DON'T have the option/ menu for school visit, previously it was there, hence I am not able to use the app.",
+        "thumbsUp": 1,
+        "version": "0.5.9"
+    },
+    {
         "id": "a3a1ff1c-96bd-4bb3-8f75-d91e5ccb1e04",
         "date": "2025-12-31",
         "score": 5,
@@ -528,7 +538,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "0.3.0"
     },
     {
@@ -538,7 +548,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Updated version doesn't show list of students name in Spectacle management . Please rectify the issue.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "0.3.0"
     },
     {
