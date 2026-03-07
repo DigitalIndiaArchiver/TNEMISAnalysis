@@ -241,7 +241,7 @@
         "scoreText": "5",
         "title": null,
         "text": "good",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "3.8",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 1,
@@ -254,7 +254,7 @@
         "scoreText": "5",
         "title": null,
         "text": "good",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "3.8",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 1,
@@ -335,17 +335,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 7,
-        "version": "3.8"
-    },
-    {
-        "id": "14da35bd-a67c-474f-b5c6-7c5594b584e4",
-        "date": "2025-12-08",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 2,
+        "thumbsUp": 6,
         "version": "3.8"
     },
     {
@@ -365,7 +355,17 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 6,
+        "thumbsUp": 7,
+        "version": "3.8"
+    },
+    {
+        "id": "14da35bd-a67c-474f-b5c6-7c5594b584e4",
+        "date": "2025-12-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I use samsung s20fe this app doesn't working properly",
+        "thumbsUp": 2,
         "version": "3.8"
     },
     {
@@ -415,7 +415,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
@@ -428,7 +428,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
@@ -441,7 +441,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Good",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7"
     },
     {
@@ -451,7 +451,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Good",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7"
     },
     {
@@ -461,7 +461,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
@@ -474,7 +474,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
