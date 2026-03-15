@@ -39,6 +39,10 @@
         {
             "permission": "full network access",
             "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
+            "type": "Other"
         }
     ]
 }
