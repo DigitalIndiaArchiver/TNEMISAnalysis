@@ -89,7 +89,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Don't introduce the app without proper updation.Don't waste our time",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "4.1"
     },
     {
@@ -99,7 +99,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Don't introduce the app without proper updation.Don't waste our time",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "4.1"
     },
     {
@@ -471,7 +471,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
@@ -484,7 +484,7 @@
         "scoreText": "2",
         "title": null,
         "text": "Need Updation and some features",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_spend_more_time": 1,
         "vaf_never_display_easy_to_use": 3,
