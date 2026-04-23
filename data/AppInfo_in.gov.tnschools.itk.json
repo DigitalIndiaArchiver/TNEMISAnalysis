@@ -8,14 +8,14 @@
     "maxInstalls": 902212,
     "score": 4.304959,
     "scoreText": "4.3",
-    "ratings": 11780,
+    "ratings": 11779,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.itk/reviews",
     "histogram": {
         "1": 827,
         "2": 496,
-        "3": 944,
+        "3": 943,
         "4": 1498,
-        "5": 8011
+        "5": 8010
     },
     "price": 0,
     "free": true,
