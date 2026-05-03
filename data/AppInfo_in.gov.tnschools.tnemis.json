@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 981080,
-    "score": 4.158974,
+    "score": 4.1579847,
     "scoreText": "4.2",
-    "ratings": 11693,
+    "ratings": 11694,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.tnemis/reviews",
     "histogram": {
-        "1": 1288,
-        "2": 469,
-        "3": 838,
-        "4": 1588,
-        "5": 7504
+        "1": 1287,
+        "2": 468,
+        "3": 848,
+        "4": 1587,
+        "5": 7498
     },
     "price": 0,
     "free": true,
