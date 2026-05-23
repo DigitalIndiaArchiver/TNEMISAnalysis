@@ -1,4 +1,7 @@
 {
+    "vaf_app_quality_battery_efficiency": 1,
+    "vaf_app_quality_ads_frequency": 1,
+    "vaf_app_quality_battery_heat": 1,
     "vaf_never_display_deceptive_ads": 9,
     "vaf_never_display_meet_expectations": 8,
     "vaf_never_display_easy_to_use": 9,
