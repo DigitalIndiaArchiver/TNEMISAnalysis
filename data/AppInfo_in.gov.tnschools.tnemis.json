@@ -5,7 +5,7 @@
     "summary": "Official app for the teachers by State School Education Department, Tamil Nadu",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 983419,
+    "maxInstalls": 983625,
     "score": 4.1626916,
     "scoreText": "4.2",
     "ratings": 11697,
@@ -42,11 +42,11 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/YG00E_g9ob2klVX_JgdOsuRHlbu-ellkkMmQ-48qNc6WeQz79P3ZHBVeXfu85odeUsHl",
-    "headerImage": "https://play-lh.googleusercontent.com/KdtJnveSWMx_r4ZZHBOYKGZMlUE4u1LQCAH7eZXce-UuAWZc9_40U5g7HaSvg7omFQY",
+    "icon": "https://play-lh.googleusercontent.com/8SgjfTFa0Ew21JhqfmYVJ2fbbGp8k1WzGTNdNAtJMwveTVdNpJYLra_kaTHRWbxJhlkPn7l2eQ5zGXN2opKTmg",
+    "headerImage": "https://play-lh.googleusercontent.com/lEtXyumK4V9a2VXP4A9fwI45qmW_Vy7dCO-KXtrOCFbiDVYnyk1oQuf7QBR_W99lrYZh8z8Na2qUrQ2_Ejqdew",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/Fex97p91Cfr8vLNn23asyy_gG6KGODf-V1xP9WTOgSzSOy7ydZdmwTE076yfJCxVolhV",
-        "https://play-lh.googleusercontent.com/tbnpQZSDGsRAIL_cFkvpBffeTSQXCIYzaobmM7mtFHUt6mkQ9wnIk6bYWLQiky3Paw4"
+        "https://play-lh.googleusercontent.com/o5O8UdAJrOVLcFMqg-ct0uvZJOkk0SzEfqs63JmEWCSDVy3OM_FEK0TuWpSq1YppBWiblo3HypfahG7lxzHxvA",
+        "https://play-lh.googleusercontent.com/fI-LsDvBq7N-Ico3s_pSzO_Fzpno5sZCKLLlokn9-l4TV5_M2oNyeJcj2ZEAg0EKnlQwQRcM5iE3H6KRLudmMQ"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,
