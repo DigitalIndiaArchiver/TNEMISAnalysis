@@ -5,7 +5,7 @@
     "summary": "Out of School Children Survey App \u2013 Tamil Nadu",
     "installs": "5+",
     "minInstalls": 5,
-    "maxInstalls": 7,
+    "maxInstalls": 8,
     "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/reviews",
     "histogram": {
         "1": 0,
