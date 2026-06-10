@@ -5,7 +5,7 @@
     "summary": "For parents of students from Tamil Nadu for information and school management",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 308090,
+    "maxInstalls": 308120,
     "score": 3.89,
     "scoreText": "3.9",
     "ratings": 622,
@@ -42,11 +42,11 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/fjNDJm3yDA76ILUI4XD9302Q6e1mepsO7pwxDGpvHJQonv9YSmWJRjn1Mt52H2FiKkA_",
-    "headerImage": "https://play-lh.googleusercontent.com/VHrmnwX2dC3UoJ0mXXGwXMgUXdEFk-1mcTy9MR75F07e_DymM85gbt__7C8g_czw0oQA",
+    "icon": "https://play-lh.googleusercontent.com/HNV7TOtGPq-8VS2UMGLACN-KWFI4_Zh-mLKr0yGITvIXN6l5nzc7CAE3_gtn-KtXtJInNJF7OyStgk5lqOQVDw",
+    "headerImage": "https://play-lh.googleusercontent.com/cEX321wfpPNa9b6hDsOaoCOoghb7aIUigO0fzvegpJthm1zqdK6PEgEO0rK4c0XA_eFO7mDR6_2IIjPYJEH0BQ",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/uCjm7u5vQPR5B1HW9HIHbOsA0TAsRpa13t3sUBQNU_lwXiK3LEabaYN0B5DGl3g_EHQ",
-        "https://play-lh.googleusercontent.com/oscMbaiZmStqrD6FHZe957FG7AG_fnCecFK4iTWsAmjYH35HtV3fJ0W0O68jV-YVFdo"
+        "https://play-lh.googleusercontent.com/SV9s6fIYavZ6cyDRRlXaRD_WEwihEORtOm9POx6kot4rXqKF72_tWjh4RF14irodBhoJYlXxdlCFkEo-kiPz",
+        "https://play-lh.googleusercontent.com/fK_sQO8y5GtCViuHq2eODd9vkiNdOSX-V-_wWFbwOdQ8Rhoh1qcGQgRlJ6hfoYt0AgwUOD91hAFc8ZKWFVRERg"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,

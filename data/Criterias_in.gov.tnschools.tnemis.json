@@ -1,9 +1,9 @@
 {
+    "vaf_never_display_ads_experience": 565,
+    "vaf_never_display_ease_of_use": 597,
     "vaf_app_quality_usability": 1,
     "vaf_app_quality_performance": 1,
     "vaf_app_quality_ads_presence": 1,
-    "vaf_never_display_ads_experience": 564,
-    "vaf_never_display_ease_of_use": 596,
     "vaf_never_display_visually_bad": 106,
     "vaf_never_display_spend_more_time": 61,
     "vaf_never_display_inappropriate_ads": 65,

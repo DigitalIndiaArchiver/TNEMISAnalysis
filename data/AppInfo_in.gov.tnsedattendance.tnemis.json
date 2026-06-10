@@ -5,7 +5,7 @@
     "summary": "The attendance of students, teachers &amp; all staff of School Education Department.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 612979,
+    "maxInstalls": 614010,
     "score": 4.3589745,
     "scoreText": "4.4",
     "ratings": 2343,
@@ -41,11 +41,11 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/GZf96-Jq2AF6Nou0JeEfiKpyJNPjLvs3-PyDmrIMTT6ajDR7m9Z7LxKhSSB2D88ClJM",
-    "headerImage": "https://play-lh.googleusercontent.com/Z8EfxJj94VXvGjE0WzjfK39R1rHbYTsS0kTvJd6vYn8BW2BQs43L6DCq-yJ7cHpD2w",
+    "icon": "https://play-lh.googleusercontent.com/wGE-LTl_bDe8fNV4RFQCDuAL1yoFEy75fhBbI10PA_wKwAtHTB3e2uIVmucxHIBRAF3SIb-X2b7v-084c08Rp90",
+    "headerImage": "https://play-lh.googleusercontent.com/2MNMTFs8l15SS7U7OWjVzZOvNHrKi7L5zkvqX9hLFruTviIXDcnUlBaxDSSGQtgqpdsLBYiS-L95NTZTGXgyyvw",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/K9LLAP3SmE7fG_YKw-USIZ6AUjhQFfOucCZaJrRygNhydQZ0yGuvvjKZyOe6vPIpyvOJ",
-        "https://play-lh.googleusercontent.com/n4PZSiEiU4Ez0s68-VH7EM7aXwYQArKSiszT9QeDcLHHHUAT-OIpoHOcm-9-YPJKwt4"
+        "https://play-lh.googleusercontent.com/oAHaY5vRQCLguWAU1LkOEIy9A1DU-OQXI-xTjbM5fU_tMdj48pi1OILV5Cyris86uZ4K4IdiOI80SOyXe4HN9w",
+        "https://play-lh.googleusercontent.com/dDIQLJTg8hMY3bBBkO6bnkpLsJupG5Qf4oicg6xKAxG8_xSVodDd-x9kwU723aWbC2GAaks-fTlaa150r6LJ2g"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,
