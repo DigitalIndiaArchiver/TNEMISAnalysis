@@ -5,17 +5,17 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 234559,
-    "score": 3.9,
+    "maxInstalls": 234656,
+    "score": 3.86,
     "scoreText": "3.9",
-    "ratings": 561,
+    "ratings": 562,
     "reviews": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.monitoring/reviews",
     "histogram": {
-        "1": 100,
+        "1": 106,
         "2": 16,
         "3": 56,
         "4": 50,
-        "5": 336
+        "5": 331
     },
     "price": 0,
     "free": true,
@@ -42,11 +42,11 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/biUWmLISRcRo-oQTBPJTSzomb_nqh_FwN5vHzfPLRKAc3w4bUkVAWxoeHhlihpZBQAU",
-    "headerImage": "https://play-lh.googleusercontent.com/0wEPEr5rIA1F_gR67Xhml_mdMD7ZvghbD-rv_qAVhv5ts-Ge50jrn_Kn4u05mAzuZYk",
+    "icon": "https://play-lh.googleusercontent.com/66DuIf2oiEUdjoUh-4U44dEEQ3uQX8jzjw5yR_Obo2L5Laa2tvBcr8YWtFra_pQf1qwvzpkEqhqpRsPPGWhrcUQ",
+    "headerImage": "https://play-lh.googleusercontent.com/0htlB1piRTBIlkUnx25xHE-BtuHROcfUV8G-AMGwRXpHf0nnRlDvpv96ic45P9Oy7SLIWNAR-d1fkb1snt8deQ",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/5-7USVll_6VArfKKGEi6ZSpnb7RDffVgCp0V8gHEEkmagdsMxV5Kr56R0tVQCw-hNA",
-        "https://play-lh.googleusercontent.com/mr0w94tnchH1LJPT4dZtI9vWzFSCMyFIKX1sd2MoubmtU1uJU3tFWKuL-yuHoLQ4n5g"
+        "https://play-lh.googleusercontent.com/JekBQz5BlCCiC0UReiDQUM9qZyreeVj6dgFmSRKGkU0vVrkUDDZj1LWVzfxqpyPiTlZhD3Jj6gknIrItubOAmVk",
+        "https://play-lh.googleusercontent.com/LvpLFlCFH-IJCgaZRGRHLDPN4-y_ZMzMdERL_0inZ0eC-KjxhrjRyXmaSReud1h6Y26YdVlv1bvk3oO1b1Pu2A"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,

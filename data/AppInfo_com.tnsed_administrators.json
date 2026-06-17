@@ -5,7 +5,7 @@
     "summary": "Official app for use of admin of School Edu Dept for carrying out inspection.",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 23901,
+    "maxInstalls": 23944,
     "score": 3.5096154,
     "scoreText": "3.5",
     "ratings": 116,
@@ -42,13 +42,13 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/6M06UenkUoSWAOGsYxQLDuzZirh1YTUYfIdL7n08sotb-wJtXcJaohFdvLDuknTuuME",
-    "headerImage": "https://play-lh.googleusercontent.com/2BPRs6zbV34sx48ZDclcpGIoPL6GwfYMrhXG9AV-9Sg1EV8R2kLWgNT0jNhQ0lS_ii0",
+    "icon": "https://play-lh.googleusercontent.com/Ba4i_CVUtqHPs3au57mLwZBDEttbprjALDeBmYWxg57IRKaXw4hiXOpnMdq3OWgr_rbyDYQ4KzYywJia9WfGTw",
+    "headerImage": "https://play-lh.googleusercontent.com/Ya6zCrgncst3YyeKbw_ayHGhOYbf1dEoCAzf7LluCxgV1dvWKTaavluEXdfg8ysTR_kpuiMfkUfCp4jqfCbBEw",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/_H8eCtZ_lVWsqmEoj6npxps7DPsapBx7IDaL-Z3yRrztImP6QqUSacHbOx4c34tdTw",
-        "https://play-lh.googleusercontent.com/McL0R3D6-Gl7fxLdmJDxjsdCoQTPOUyaexI7-bbsEBz9769NweczV5eupfb1baptScgy",
-        "https://play-lh.googleusercontent.com/jFjeW7t9HeTWj1owfg-4pFs8VbBk1LJysvkFZVmBxhPeQk5lnc6C1ckWv9r0bxlXdxU",
-        "https://play-lh.googleusercontent.com/L0pvXQspe-vgoJZFpMTvIEz3popKbwJFhX85ik7cGAfxjehYiRYE_2-qHjoG6mVDYw"
+        "https://play-lh.googleusercontent.com/zgm-KJ86LTVmMNv0D4ZRI6iC_8FMWfxBw3x_5pIiWYJHVQXQW6BakvXOzjz6jc-gtN5MqdtncvM8jeJpZaWT",
+        "https://play-lh.googleusercontent.com/1G3u4OxGLRn8AS653CMfCzL-2r2ONu7N-VnYqh5g60tf77kCHfrTr7l68DnX3AS7ELAnOr7GX-W12eZF2Zc5",
+        "https://play-lh.googleusercontent.com/hGrMaTGUC9_TVPmtBOdvx1DVlT7lI2A_OmiHHi6EysepPmOnd6cQVrW7KIbcbxKdbWIOHA7Z41LRwGNu1eqX2-g",
+        "https://play-lh.googleusercontent.com/wlvgIq7_-g-QzrLYqDjKlj3JAM3XFBGn1k_nAxo1KUKzam8ajTumKS4JV1j-kERU97m3cSzsM3ZGPb4tz-ez"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,

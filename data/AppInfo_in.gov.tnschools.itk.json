@@ -42,11 +42,11 @@
     "genre": "Education",
     "genreId": "EDUCATION",
     "categories": "http://gplayapidev.fly.dev/api/categories/",
-    "icon": "https://play-lh.googleusercontent.com/bS4OU6qgMR6Dgj2iqa7kuUsRgWbQlH6_BEcGj7OW8tcILSBTgvd8RDn9V8I96DDoLQ",
-    "headerImage": "https://play-lh.googleusercontent.com/SuvFNCf1c38Yt5je0auYZRC1i92eDZLaP1Gdfs8EDBoK4uksgxWF2f5Ov0uaGGIlGXc",
+    "icon": "https://play-lh.googleusercontent.com/5DOPdQ0cCweGVFkKHFCo_pO3IG2LHL9jdzipe5YxEuHi6uLqxHNRVjBAOK-CaSHFGRLHp7NaM4ajOYTXEnPLtQ",
+    "headerImage": "https://play-lh.googleusercontent.com/RpJT1x_YosvYqieFzCxFP6Pi9xavqx4HzYr6_CuZgcxOOmNyBCkiRzdLUy-On0iKl52r8l5NxiBgMMtTOhIr4A",
     "screenshots": [
-        "https://play-lh.googleusercontent.com/SeTYHxP6lp8_NFm_t5OhFtEfc_cjzXSt_S6S51gvOlKkoD5kRrjfl_CwHW9eFFSmSGmY",
-        "https://play-lh.googleusercontent.com/EtQV3rl-1-3mKkhoUvzA69e5ctxT42d3ndjOHUyi7s1MszeMzUFGcUf05hFO0CgK-nY"
+        "https://play-lh.googleusercontent.com/X4mXcCk7t7WY6yY9vdPvSQXprsIRCe-nvXQtQvAKOOO8kkLZyZsPYhMxLpWqgJw8k5V2qhGpbE0fR8e7jZ0nFXc",
+        "https://play-lh.googleusercontent.com/TkqjFfOBn1KKadWBovIbk5fxsEW_YMSQEMJphQ0kyers0_4PQyHdcMc5q8_4gTpFZo2lpviXZIWzSCd-3oXt"
     ],
     "contentRating": "Rated for 3+",
     "adSupported": false,

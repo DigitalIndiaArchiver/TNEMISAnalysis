@@ -1,8 +1,8 @@
 {
-    "vaf_app_quality_visual_appeal": 1,
+    "vaf_app_quality_ads_frequency": 4,
+    "vaf_app_quality_visual_appeal": 2,
+    "vaf_app_quality_battery_heat": 4,
     "vaf_app_quality_battery_efficiency": 2,
-    "vaf_app_quality_battery_heat": 3,
-    "vaf_app_quality_ads_frequency": 3,
     "vaf_app_quality_ads_intrusiveness": 1,
     "vaf_never_display_deceptive_ads": 9,
     "vaf_never_display_meet_expectations": 8,
