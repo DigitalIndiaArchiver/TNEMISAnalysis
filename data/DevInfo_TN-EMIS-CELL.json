@@ -15,7 +15,7 @@
             "free": true,
             "summary": "Your journey of simple and enjoyable self-learning begins here!<br><br>Explore Math, Physics, Chemistry, Botany, and Zoology lessons aligned with the Tamil Nadu State Board syllabus through this engaging app. The content is delivered in the form of bi-lingual animated videos (Tamil &amp; English) designed to make learning easy and enjoyable.<br><br>Understand concepts effortlessly and assess your knowledge with a quiz at the end of every video. <br><br>This app has been developed by the Tamil Nadu School Education Department as part of its digital learning initiative.<br><br>The app is now live with a rich collection of lessons, and new content is being added regularly. Stay tuned for updates as more subjects, videos, and quiz questions are continuously rolled out.",
             "scoreText": "4.2",
-            "score": 4.185185,
+            "score": 4.189687,
             "playstoreUrl": "https://play.google.com/store/apps/details?id=in.gov.tnsedstudent.tnemis",
             "permissions": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/permissions",
             "similar": "http://gplayapidev.fly.dev/api/apps/in.gov.tnsedstudent.tnemis/similar",
@@ -90,6 +90,26 @@
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         },
         {
+            "title": "TNSED ACiS",
+            "appId": "com.tnscdacis",
+            "url": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis",
+            "icon": "https://play-lh.googleusercontent.com/Jv_M4ANmIKsrRpY0f05Nuwr6byspA_pIVKhuhPUe4AwXl3-rnDwB3mer3af4Hv5Km8RQV_cuViQ3VmBx2VMX",
+            "developer": {
+                "devId": "TN-EMIS-CELL",
+                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
+            },
+            "currency": "INR",
+            "price": 0,
+            "free": true,
+            "summary": "Out of School Children Survey App \u2013 Tamil Nadu<br>The Out of School Children (OOSC) Survey App is a digital platform designed to support the<br>identification and tracking of children who are out of the formal education system across<br>Tamil Nadu.<br>Teachers and Block Resource Teacher Educators (BRTEs) in all blocks of the 38 districts will<br>use the app to survey students listed in the Common Pool and record their current status<br>along with the reasons for dropout.<br>The application enables accurate, real-time data collection and monitoring, helping the<br>Education Department take timely and targeted steps to bring every child back to school.",
+            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.tnscdacis",
+            "permissions": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/permissions",
+            "similar": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/similar",
+            "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/reviews",
+            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/datasafety",
+            "categories": "http://gplayapidev.fly.dev/api/categories/"
+        },
+        {
             "title": "TNSED Parents",
             "appId": "in.gov.tnschools.parent",
             "url": "http://gplayapidev.fly.dev/api/apps/in.gov.tnschools.parent",
@@ -153,26 +173,6 @@
             "similar": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/similar",
             "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/reviews",
             "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnsed_administrators/datasafety",
-            "categories": "http://gplayapidev.fly.dev/api/categories/"
-        },
-        {
-            "title": "TNSED ACiS",
-            "appId": "com.tnscdacis",
-            "url": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis",
-            "icon": "https://play-lh.googleusercontent.com/Jv_M4ANmIKsrRpY0f05Nuwr6byspA_pIVKhuhPUe4AwXl3-rnDwB3mer3af4Hv5Km8RQV_cuViQ3VmBx2VMX",
-            "developer": {
-                "devId": "TN-EMIS-CELL",
-                "url": "http://gplayapidev.fly.dev/api/developers/TN-EMIS-CELL"
-            },
-            "currency": "INR",
-            "price": 0,
-            "free": true,
-            "summary": "Out of School Children Survey App \u2013 Tamil Nadu<br>The Out of School Children (OOSC) Survey App is a digital platform designed to support the<br>identification and tracking of children who are out of the formal education system across<br>Tamil Nadu.<br>Teachers and Block Resource Teacher Educators (BRTEs) in all blocks of the 38 districts will<br>use the app to survey students listed in the Common Pool and record their current status<br>along with the reasons for dropout.<br>The application enables accurate, real-time data collection and monitoring, helping the<br>Education Department take timely and targeted steps to bring every child back to school.",
-            "playstoreUrl": "https://play.google.com/store/apps/details?id=com.tnscdacis",
-            "permissions": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/permissions",
-            "similar": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/similar",
-            "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/reviews",
-            "datasafety": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/datasafety",
             "categories": "http://gplayapidev.fly.dev/api/categories/"
         }
     ]
