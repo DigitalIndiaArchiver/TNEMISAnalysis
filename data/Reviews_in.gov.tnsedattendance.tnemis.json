@@ -1,5 +1,28 @@
 [
     {
+        "id": "8bcb1d47-8002-453d-8e9a-87b5940ffc98",
+        "date": "2026-06-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "thumbsUp": 0,
+        "version": "8.0"
+    },
+    {
+        "id": "2845c003-7e6c-430f-8a24-d684d66fcb26",
+        "date": "2026-06-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "frequent server issues and there's no grievance portal or support desk for relating issues.",
+        "thumbsUp": 0,
+        "version": "8.0",
+        "vaf_app_quality_battery_efficiency": 1,
+        "vaf_app_quality_battery_heat": 1,
+        "vaf_app_quality_ads_intrusiveness": 2
+    },
+    {
         "id": "f4045756-64d3-4ce8-9e0c-8c3551ce6617",
         "date": "2026-06-28",
         "score": 1,
@@ -654,7 +677,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
@@ -664,7 +687,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -1024,7 +1047,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": null
     },
     {
@@ -1034,7 +1057,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Nice app...user-friendly and allows you to easily track attendance daily.",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": null
     },
     {
