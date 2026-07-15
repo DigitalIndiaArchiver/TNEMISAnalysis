@@ -3,9 +3,9 @@
     "description": "Out of School Children Survey App \u2013 Tamil Nadu\nThe Out of School Children (OOSC) Survey App is a digital platform designed to support the\nidentification and tracking of children who are out of the formal education system across\nTamil Nadu.\nTeachers and Block Resource Teacher Educators (BRTEs) in all blocks of the 38 districts will\nuse the app to survey students listed in the Common Pool and record their current status\nalong with the reasons for dropout.\nThe application enables accurate, real-time data collection and monitoring, helping the\nEducation Department take timely and targeted steps to bring every child back to school.",
     "descriptionHTML": "Out of School Children Survey App \u2013 Tamil Nadu<br>The Out of School Children (OOSC) Survey App is a digital platform designed to support the<br>identification and tracking of children who are out of the formal education system across<br>Tamil Nadu.<br>Teachers and Block Resource Teacher Educators (BRTEs) in all blocks of the 38 districts will<br>use the app to survey students listed in the Common Pool and record their current status<br>along with the reasons for dropout.<br>The application enables accurate, real-time data collection and monitoring, helping the<br>Education Department take timely and targeted steps to bring every child back to school.",
     "summary": "Out of School Children Survey App \u2013 Tamil Nadu",
-    "installs": "10+",
-    "minInstalls": 10,
-    "maxInstalls": 49,
+    "installs": "50+",
+    "minInstalls": 50,
+    "maxInstalls": 53,
     "reviews": "http://gplayapidev.fly.dev/api/apps/com.tnscdacis/reviews",
     "histogram": {
         "1": 0,
