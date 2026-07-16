@@ -1,5 +1,18 @@
 [
     {
+        "id": "a1c66545-efe0-47c4-b359-37379e3d1d9a",
+        "date": "2026-07-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very poor response in synchronous and irresponsible to attendance submition",
+        "thumbsUp": 0,
+        "version": "8.0",
+        "vaf_app_quality_usability": 3,
+        "vaf_app_quality_battery_efficiency": 3,
+        "vaf_app_quality_stability": 2
+    },
+    {
         "id": "af34f91a-1f21-4a7f-9fe3-7c2c1b3fddf4",
         "date": "2026-07-13",
         "score": 5,
@@ -465,7 +478,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -475,7 +488,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "8.0"
     },
     {
@@ -687,7 +700,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -697,7 +710,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
