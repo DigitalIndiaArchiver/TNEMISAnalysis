@@ -119,7 +119,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Don't introduce the app without proper updation.Don't waste our time",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "4.1"
     },
     {
@@ -129,7 +129,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Don't introduce the app without proper updation.Don't waste our time",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "4.1"
     },
     {
@@ -375,7 +375,7 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 7,
+        "thumbsUp": 5,
         "version": "3.8"
     },
     {
@@ -405,18 +405,8 @@
         "scoreText": "1",
         "title": null,
         "text": "I use samsung s20fe this app doesn't working properly",
-        "thumbsUp": 5,
+        "thumbsUp": 7,
         "version": "3.8"
-    },
-    {
-        "id": "f2463c92-45f7-4a04-8a1c-91c8915329a5",
-        "date": "2025-12-06",
-        "score": 1,
-        "scoreText": "1",
-        "title": null,
-        "text": "Not working",
-        "thumbsUp": 0,
-        "version": null
     },
     {
         "id": "f2463c92-45f7-4a04-8a1c-91c8915329a5",
@@ -429,14 +419,14 @@
         "version": null
     },
     {
-        "id": "0b8c4a08-302b-44b7-9d5e-2593c8e601ec",
-        "date": "2025-12-05",
-        "score": 4,
-        "scoreText": "4",
+        "id": "f2463c92-45f7-4a04-8a1c-91c8915329a5",
+        "date": "2025-12-06",
+        "score": 1,
+        "scoreText": "1",
         "title": null,
-        "text": "good... is it possible to bring the students attendance details from the attendance app?",
-        "thumbsUp": 1,
-        "version": "3.8"
+        "text": "Not working",
+        "thumbsUp": 0,
+        "version": null
     },
     {
         "id": "0b8c4a08-302b-44b7-9d5e-2593c8e601ec",
@@ -446,6 +436,16 @@
         "title": null,
         "text": "good... is it possible to bring the students attendance details from the attendance app?",
         "thumbsUp": 0,
+        "version": "3.8"
+    },
+    {
+        "id": "0b8c4a08-302b-44b7-9d5e-2593c8e601ec",
+        "date": "2025-12-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good... is it possible to bring the students attendance details from the attendance app?",
+        "thumbsUp": 1,
         "version": "3.8"
     },
     {
@@ -455,7 +455,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
@@ -468,7 +468,7 @@
         "scoreText": "1",
         "title": null,
         "text": "very worst",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "3.7",
         "vaf_never_display_visually_good": 1,
         "vaf_never_display_app_description": 2,
