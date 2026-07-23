@@ -1,5 +1,17 @@
 [
     {
+        "id": "037e45bb-e11e-4064-860a-d31ff82e0da0",
+        "date": "2026-07-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "இந்த இரண்டு நாட்களாக முன்பு இருந்தபடி சேவை மிக மிக மிகமோசமாக உள்ளது.",
+        "thumbsUp": 0,
+        "version": "8.0",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
         "id": "a1c66545-efe0-47c4-b359-37379e3d1d9a",
         "date": "2026-07-14",
         "score": 2,
@@ -478,7 +490,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 1,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -488,7 +500,7 @@
         "scoreText": "1",
         "title": null,
         "text": "Kindly make the login easier by enabling the option of Fingerprint authentication and also add options to save passwords.",
-        "thumbsUp": 2,
+        "thumbsUp": 1,
         "version": "8.0"
     },
     {
@@ -700,7 +712,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 0,
+        "thumbsUp": 2,
         "version": "8.0"
     },
     {
@@ -710,7 +722,7 @@
         "scoreText": "5",
         "title": null,
         "text": "Very good performance",
-        "thumbsUp": 2,
+        "thumbsUp": 0,
         "version": "8.0"
     },
     {
@@ -1130,7 +1142,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This is a great app. It would be advance to see more improvements in the future",
-        "thumbsUp": 0,
+        "thumbsUp": 1,
         "version": "7.0"
     },
     {
@@ -1140,7 +1152,7 @@
         "scoreText": "5",
         "title": null,
         "text": "This is a great app. It would be advance to see more improvements in the future",
-        "thumbsUp": 1,
+        "thumbsUp": 0,
         "version": "7.0"
     },
     {
